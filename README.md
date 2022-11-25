@@ -1,5 +1,5 @@
 # EncycNet_Relations
-CSV data of all relations (**work in progress**) in the EncycNet knowledge graph. Includes broad and fine-grained Wikidata classification of entries. All files are tab-separated. Classification files are stored as `.p` ([pickle](https://wiki.python.org/moin/UsingPickle) to keep Wikimedia objects functional.
+CSV data of all relations (**work in progress**) in the EncycNet knowledge graph. Includes broad and fine-grained Wikidata classification of entries. All files are tab-separated. Classification files are stored as `.p` ([pickle](https://wiki.python.org/moin/UsingPickle)) to keep Wikimedia objects functional.
 
 All files (especially classification) are still subject to optimization.
 
