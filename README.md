@@ -26,6 +26,10 @@ All files (especially classification) are still subject to optimization.
 | r | reference |
 | n | no tag |
 
+## List of encyclopedias used
+
+TODO
+
 ## Future work
 * match our extracted relations to Wikidata relations
 * evaluation through gold data
