@@ -13,7 +13,7 @@ All files (especially classification) are still subject to optimization.
 * English only
 * no uppercase in filename except for encyclopedia
 * only one letter per XML-tag used
-* all relations files must include columns "EntryID", "headword", and at least one relation column
+* all relations files must have their own index (0, 1, 2, ..., n), further included are columns "EntryID", "headword", and at least one relation column
 * relation names are stated in singular and are not abbreviated
 * relation names **must** match the column header in the file (same names and order)
 * columns for additional IDs for references are titled "target" and are listed in the filename as well
