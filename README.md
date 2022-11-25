@@ -23,3 +23,8 @@ CSV data of all relations (**work in progress**) in the EncycNet knowledge graph
 | b | bold |
 | r | reference |
 | n | no tag |
+
+## Future work
+* match our extracted relations to Wikidata relations
+* evaluation through gold data
+* transform to RDF*
