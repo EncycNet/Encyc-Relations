@@ -34,5 +34,6 @@ TODO
 ## Future work
 * match the extracted relations to Wikidata relations
 * evaluation through gold data (precision and recall)
+* add reliability scores through evaluation
 * transform to RDF*
 * include Python toolbox for easy handling of the data
