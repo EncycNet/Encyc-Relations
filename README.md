@@ -16,6 +16,7 @@ All files (especially classification) are still subject to optimization.
 * all relations files include EntryID, headword, and at least one relation column
 * relation names are stated in singular and are not abbreviated
 * relation names **must** match the column header in the file (same names and order)
+* columns for additional IDs for references are titled "target" and are listed in the filename as well
 * merge CSV files that would have the same name (e.g. Lemmasynonym1, Lemmasynonym2, etc.)
 
 | Letter   |      Tag     |
@@ -31,6 +32,7 @@ All files (especially classification) are still subject to optimization.
 TODO
 
 ## Future work
-* match our extracted relations to Wikidata relations
-* evaluation through gold data
+* match the extracted relations to Wikidata relations
+* evaluation through gold data (precision and recall)
 * transform to RDF*
+* include Python toolbox for easy handling of the data
