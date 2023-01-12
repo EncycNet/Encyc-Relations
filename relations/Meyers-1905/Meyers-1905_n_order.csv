@@ -1,0 +1,835 @@
+	EntryID	Headword	order
+0	d2e1270Meyers-1905	Aalmolch	Derotremen
+1	d2e4887Meyers-1905	Abdomināles	Knochenfische
+2	d2e11285Meyers-1905	Aboth	Mischna
+3	d2e11308Meyers-1905	About	Dinge
+4	d2e18330Meyers-1905	Acanthopterygĭi	Knochenfische
+5	d2e18481Meyers-1905	Acărus	Spinnentiere
+6	d2e36492Meyers-1905	Affen	Säugetiere
+7	d2e41750Meyers-1905	Agamen	Dickzüngler
+8	d2e42082Meyers-1905	Agaricus	Hymenomyceten
+9	d2e45239Meyers-1905	Aglossa	Frösche
+10	d2e46418Meyers-1905	Agrarverfassung	Grundeigentumsverhältnisse
+11	d2e48146Meyers-1905	Ägypten	Dinge
+12	d2e48146Meyers-1905	Ägypten	Götter
+13	d2e53705Meyers-1905	Aizoazeen	Zentrospermen
+14	d2e55406Meyers-1905	Akanthazeen	Tubifloren
+15	d2e55492Meyers-1905	Akanthopterygĭer	Knochenfische
+16	d2e71565Meyers-1905	Alexander [1]	eroberten Länder
+17	d2e72073Meyers-1905	Alexander [2]	Tragödien
+18	d2e77617Meyers-1905	Alismazeen	Helobien
+19	d2e96377Meyers-1905	Amadīnen	Sperlingsvögel
+20	d2e97323Meyers-1905	Amarantazeen	Zentrospermen
+21	d2e97793Meyers-1905	Amaryllidazeen	Liliifloren
+22	d2e100822Meyers-1905	Ameisenigel	Kloakentiere
+23	d2e108120Meyers-1905	Amphibĭen	Froschlurche
+24	d2e112519Meyers-1905	Anacanthīni	Knochenfische
+25	d2e113283Meyers-1905	Anakardĭazeen	Terebinthinen
+26	d2e115554Meyers-1905	Anarchismus	menschlichen Zusammenlebens
+27	d2e115554Meyers-1905	Anarchismus	Gütererzeugung
+28	d2e116949Meyers-1905	Anaximandros	Zeit
+29	d2e118057Meyers-1905	Andalusīt	Silikate
+30	d2e119749Meyers-1905	Andreä	evangelischen Kirchenwesens
+31	d2e132016Meyers-1905	Annonce	Rechtsverhältnisse
+32	d2e132866Meyers-1905	Anomodónten	Reptilien
+33	d2e132971Meyers-1905	Anonazeen	Polycarpicae
+34	d2e137369Meyers-1905	Anthoceroten	Moose
+35	d2e145528Meyers-1905	Anūra	Amphibien
+36	d2e148779Meyers-1905	Aphis	Halbflügler
+37	d2e149436Meyers-1905	Apĭdae	Hautflügler
+38	d2e150062Meyers-1905	Apocynazeen	Kontorten
+39	d2e150180Meyers-1905	Apŏdes	Knochenfische
+40	d2e156996Meyers-1905	Aquifolĭazeen	Sapindalen
+41	d2e160550Meyers-1905	Aralĭazeen	Umbellifloren
+42	d2e160825Meyers-1905	Araneīna	Spinnentiere
+43	d2e161851Meyers-1905	Arazeen	Spathifloren
+44	d2e163314Meyers-1905	Arbeitseinstellung	Verhältnisse
+45	d2e163835Meyers-1905	Arbeitsnachweis	Arbeitsnachweises
+46	d2e168805Meyers-1905	Archīv	Archivwesens
+47	d2e168805Meyers-1905	Archīv	Akten
+48	d2e176318Meyers-1905	Aristolochĭazeen	Monochlamydeen
+49	d2e181275Meyers-1905	Armmolch	Perennibranchiaten
+50	d2e188976Meyers-1905	Arthrogastra	Spinnentiere
+51	d2e198407Meyers-1905	Asklepĭadazeen	Kontorten
+52	d2e198685Meyers-1905	Askomyzēten	Pilze
+53	d2e199721Meyers-1905	Aspergillus	Askomyzeten
+54	d2e205341Meyers-1905	Astrilds	Sperlingsvögel
+55	d2e247528Meyers-1905	Axolotl	Salamandrinen
+56	d2e264903Meyers-1905	Balanophorazeen	Monochlamyden
+57	d2e264966Meyers-1905	Balantidĭum coli	Heterotricha
+58	d2e266985Meyers-1905	Balgmilben	Milben
+59	d2e270132Meyers-1905	Balsaminazeen	Gruinalen
+60	d2e274450Meyers-1905	Bandwürmer	Plattwürmer
+61	d2e279503Meyers-1905	Bär [2]	Raubtiere
+62	d2e291396Meyers-1905	Bärtierchen	Spinnentiere
+63	d2e301457Meyers-1905	Batrachĭer	Amphibien
+64	d2e303274Meyers-1905	Bauchflosser	Knochenfische
+65	d2e305008Meyers-1905	Bauerngut	gemeinen Rechts
+66	d2e323727Meyers-1905	Begonĭazeen	Passiflorinen
+67	d2e324053Meyers-1905	Begriff	Seienden
+68	d2e342139Meyers-1905	Berberidazeen	Policarpicae
+69	d2e350006Meyers-1905	Beringmeer	Robbenjagd
+70	d2e352600Meyers-1905	Bern [2]	Finanzen
+71	d2e360543Meyers-1905	Beschreibung	einzelnen Objekts
+72	d2e366528Meyers-1905	Betulazeen	Fagalen
+73	d2e366936Meyers-1905	Beugung des Lichtes	Beugungsspektrums
+74	d2e368392Meyers-1905	Beuteltiere	Säugetiere
+75	d2e376581Meyers-1905	Bibliothekwissenschaft	Bibliotheken
+76	d2e378713Meyers-1905	Bienen	Hautflügler
+77	d2e382074Meyers-1905	Bignoniazeen	Tubifloren
+78	d2e393159Meyers-1905	Bischof [1]	Landbischöfe
+79	d2e397058Meyers-1905	Bixazeen	Cistifloren
+80	d2e402906Meyers-1905	Blatta [1]	Geradflügler
+81	d2e403594Meyers-1905	Blattflöhe	Halbflügler
+82	d2e403656Meyers-1905	Blattfüßer	niedern Krebstiere
+83	d2e405072Meyers-1905	Blattstellung	Schuppen
+84	d2e412645Meyers-1905	Blindschleiche	Kurzzüngler
+85	d2e412695Meyers-1905	Blindwühler	Amphibien
+86	d2e428129Meyers-1905	Bodōni	Stempelsammlung
+87	d2e435953Meyers-1905	Bolētus [2]	Hymenomyceten
+88	d2e438495Meyers-1905	Bombakazeen	Kolumniferen
+89	d2e439213Meyers-1905	Bombycidae	Schmetterlinge
+90	d2e448225Meyers-1905	Borkentier	Sirenen
+91	d2e449898Meyers-1905	Borraginazeen	Nukuliferen
+92	d2e467286Meyers-1905	Branchiūra	Ruderfüßer
+93	d2e469177Meyers-1905	Brandpilze	Hemibasidier
+94	d2e473475Meyers-1905	Braun [2]	Schuppen
+95	d2e474635Meyers-1905	Braunschweig [1]	Regierungsverhältnisse
+96	d2e493870Meyers-1905	Bromelĭazeen	Farinosen
+97	d2e501317Meyers-1905	Brückenechsen	Reptilien
+98	d2e505096Meyers-1905	Bruno	Königskanzlei
+99	d2e509444Meyers-1905	Buch [2]	Buchschmuckes
+100	d2e511693Meyers-1905	Bücherlaus	Falschnetzflügler
+101	d2e518180Meyers-1905	Bufo	Frösche
+102	d2e518510Meyers-1905	Bugenhagen	dortigen Kirchenwesens
+103	d2e521902Meyers-1905	Bulle [2]	Konzile
+104	d2e530191Meyers-1905	Burleigh	Finanzwesens
+105	d2e531639Meyers-1905	Burserazeen	Terebinthinen
+106	d2e532873Meyers-1905	Büschelkiemer	Knochenfische
+107	d2e535373Meyers-1905	Butomazeen	Helobiae
+108	d2e548008Meyers-1905	Calocēra	Hymenomyzeten
+109	d2e555377Meyers-1905	Candolleazeen	Kampanulinen
+110	d2e557593Meyers-1905	Cantharellus	Hymenomyzeten
+111	d2e560934Meyers-1905	Carābus	Käfer
+112	d2e565791Meyers-1905	Carnivŏra	Säugetiere
+113	d2e567547Meyers-1905	Carrageen	Rottange
+114	d2e577567Meyers-1905	Caudāta	Amphibien
+115	d2e581802Meyers-1905	Celastrazeen	Frangulinen
+116	d2e584690Meyers-1905	Centrolepidazeen	Farinosen
+117	d2e585962Meyers-1905	Ceratophyllazeen	Polycarpicae
+118	d2e589387Meyers-1905	Cetrarĭa	heteromeren Diskolichenen
+119	d2e604487Meyers-1905	Chelonĭarĭer	Schmetterlinge
+120	d2e606322Meyers-1905	Chemische Verwandtschaft	Anziehungen
+121	d2e611793Meyers-1905	Chile	Zahnarmen
+122	d2e613195Meyers-1905	China [3]	Ehe
+123	d2e618312Meyers-1905	Chiroptĕra	Säugetiere
+124	d2e623835Meyers-1905	Chondrus	Florideen
+125	d2e624216Meyers-1905	Chor [1]	Dithyrambos
+126	d2e627234Meyers-1905	Christenverfolgungen	Staates
+127	d2e632769Meyers-1905	Chroolēpus	Chlorophyzeen
+128	d2e636073Meyers-1905	Cicàdarĭa	Halbflügler
+129	d2e640876Meyers-1905	Cistazeen	Cistifloren
+130	d2e643295Meyers-1905	Cladonĭa	heteromeren Diskolichenen
+131	d2e643378Meyers-1905	Cladophŏra	Chlorophyzeen
+132	d2e644915Meyers-1905	Clarissĭmus vir	Hofbeamtentums
+133	d2e645534Meyers-1905	Clathrus	Bauchpilze
+134	d2e647557Meyers-1905	Clemens [2]	Philosophie
+135	d2e652192Meyers-1905	Coccinella	Käfer
+136	d2e652417Meyers-1905	Coccus [2]	Halbflügler
+137	d2e653012Meyers-1905	Cöcilĭen	Amphibien
+138	d2e654229Meyers-1905	Codronchi-Argeli	sizilischen Verhältnisse
+139	d2e660849Meyers-1905	Columba [2]	Vögel
+140	d2e676239Meyers-1905	Coreodes	Halbflügler
+141	d2e676403Meyers-1905	Coriacĕa	Zweiflügler
+142	d2e688118Meyers-1905	Crabronidae	Hautflügler
+143	d2e690974Meyers-1905	Crepuscularĭa	Schmetterlinge
+144	d2e693954Meyers-1905	Cromer [2]	Reichsarchivs
+145	d2e701632Meyers-1905	Curculĭo	Käfer
+146	d2e704321Meyers-1905	Cyanophyzeen	Algen
+147	d2e706165Meyers-1905	Cynips	Hautflügler
+148	d2e718280Meyers-1905	Dämmerungsfalter	Schmetterlinge
+149	d2e727394Meyers-1905	Dänische Sprache	Rechtschreibung
+150	d2e745733Meyers-1905	Definitīvum	Dinge
+151	d2e756718Meyers-1905	Demōdex	Milben
+152	d2e763672Meyers-1905	Dermatophĭli	Milben
+153	d2e763800Meyers-1905	Dermestes	Käfer
+154	d2e767159Meyers-1905	Desmidĭazeen	Jochalgen
+155	d2e779165Meyers-1905	Deutschland	Staates
+156	d2e790936Meyers-1905	Diandrae	natürlichen Pflanzensystems
+157	d2e790936Meyers-1905	Diandrae	Kontorten
+158	d2e794400Meyers-1905	Dickhäuter	Rüsseltiere
+159	d2e803776Meyers-1905	Dillenĭazeen	Cistifloren
+160	d2e806757Meyers-1905	Dinoflagellāten	Flagellaten
+161	d2e806931Meyers-1905	Dinotherĭum	Rüsseltiere
+162	d2e807456Meyers-1905	Dioïcus	Klasse
+163	d2e808901Meyers-1905	Dioskorĕazeen	Liliifloren
+164	d2e810759Meyers-1905	Diplopoden	Tausendfüßer
+165	d2e811194Meyers-1905	Dipsakazeen	Aggregaten
+166	d2e811348Meyers-1905	Dipterokarpazeen	Cistifloren
+167	d2e811701Meyers-1905	Direkt	ekliptischen Zeichen
+168	d2e812721Meyers-1905	Discodactylia	Frösche
+169	d2e818303Meyers-1905	Diurna [2]	Schmetterlinge
+170	d2e854478Meyers-1905	Droserazeen	Cistifloren
+171	d2e871523Meyers-1905	Dünnschnäbler	Sperlingsvögel
+172	d2e872557Meyers-1905	Dupin [2]	Gesetze
+173	d2e881278Meyers-1905	Dyticus	Käfer
+174	d2e881397Meyers-1905	Dziatzko	Titel
+175	d2e883215Meyers-1905	Ebenazeen	Diospyrinen
+176	d2e885516Meyers-1905	Ecaudāta	Amphibien
+177	d2e889920Meyers-1905	Edelfische	Knochenfische
+178	d2e902458Meyers-1905	Eidechsen	Reptilien
+179	d2e911795Meyers-1905	Eintagsfliegen	Falschnetzflügler
+180	d2e918878Meyers-1905	Eisenbahnpolizei	Eisenbahnbetriebs
+181	d2e929849Meyers-1905	Eläagnazeen	Thymeläinen
+182	d2e931202Meyers-1905	Elaterĭdae	Käfer
+183	d2e931315Meyers-1905	Elatinazeen	Cistifloren
+184	d2e933946Meyers-1905	Elektrische Entladung	Lichtgeschwindigkeit
+185	d2e956720Meyers-1905	Empetrazeen	Frangulinen
+186	d2e958663Meyers-1905	Enantĭoblasten	Farinosae
+187	d2e965409Meyers-1905	Englische Literatur	Wissenschaften
+188	d2e972132Meyers-1905	Enten	Schwimmvögel
+189	d2e978032Meyers-1905	Epakridazeen	Erizinen
+190	d2e978827Meyers-1905	Ephemĕra [1]	Falschnetzflügler
+191	d2e997494Meyers-1905	Erikazeen	Ericinen
+192	d2e997945Meyers-1905	Eriokaulazeen	Farinosen
+193	d2e1019998Meyers-1905	Eucheuma	Rhodophyzeen
+194	d2e1023265Meyers-1905	Euphorbĭazeen	Tricoccae
+195	d2e1041904Meyers-1905	Fabrikinspektion	Zuständigkeitsverhältnisse
+196	d2e1042965Meyers-1905	Fächerflügler	Insekten
+197	d2e1044419Meyers-1905	Fadenalgen	Grünalgen
+198	d2e1044465Meyers-1905	Fadenfisch	Stachelflosser
+199	d2e1044969Meyers-1905	Fagalen	Amentazeen
+200	d2e1050387Meyers-1905	Falken	Raubvögel
+201	d2e1053188Meyers-1905	Falschnetzflügler	Insekten
+202	d2e1053188Meyers-1905	Falschnetzflügler	Archiptera
+203	d2e1055988Meyers-1905	Fangheuschrecken	Geradflügler
+204	d2e1060568Meyers-1905	Farinōsae	Monokotyledonen
+205	d2e1060760Meyers-1905	Farne [1]	Eusporangiaten
+206	d2e1060760Meyers-1905	Farne [1]	Leptosporangiaten
+207	d2e1062506Meyers-1905	Fasān	Hühnervögel
+208	d2e1079034Meyers-1905	Feldweihen	Raubvögel
+209	d2e1083139Meyers-1905	Ferdinand	Zustände
+210	d2e1103516Meyers-1905	Fichte [2]	Dinge
+211	d2e1110620Meyers-1905	Finanzwesen	Finanzen
+212	d2e1118441Meyers-1905	Fischerei	Schonzeit
+213	d2e1126486Meyers-1905	Flamingo [2]	Watvögel
+214	d2e1129023Meyers-1905	Flatterer	Säugetiere
+215	d2e1129174Meyers-1905	Flattertiere	Säugetiere
+216	d2e1131512Meyers-1905	Fledermäuse [1]	Handflügler
+217	d2e1132628Meyers-1905	Fleischfresser	Säugetiere
+218	d2e1135383Meyers-1905	Fliegenfänger [2]	Sperlingsvögel
+219	d2e1137645Meyers-1905	Florenz	Steuerwesens
+220	d2e1139524Meyers-1905	Flossensäugetiere	Säugetiere
+221	d2e1152165Meyers-1905	Forficŭla	Geradflügler
+222	d2e1153567Meyers-1905	Formīca [1]	Hautflügler
+223	d2e1155362Meyers-1905	Forsteinrichtung	Betriebsverbände
+224	d2e1165438Meyers-1905	Frangulinen	Dikotyledonen
+225	d2e1166166Meyers-1905	Frankenĭazeen	Cistifloren
+226	d2e1180903Meyers-1905	Frauenfrage	Frau
+227	d2e1193450Meyers-1905	Friedrich [1]	Stände
+228	d2e1196484Meyers-1905	Fries [3]	Welt
+229	d2e1198469Meyers-1905	Fritfliege	Fliegen
+230	d2e1200766Meyers-1905	Frösche	Amphibien
+231	d2e1208369Meyers-1905	Fukazeen	Braunalgen
+232	d2e1209001Meyers-1905	Fulgŏra	Halbflügler
+233	d2e1210198Meyers-1905	Fumarĭazeen	Rhöades
+234	d2e1210505Meyers-1905	Funarĭa	akrokarpen Bryineen
+235	d2e1222573Meyers-1905	Gagern	Dinge
+236	d2e1228960Meyers-1905	Gallenmilben	Milben
+237	d2e1230698Meyers-1905	Gallīnae	Vögel
+238	d2e1231085Meyers-1905	Gallmücken	Zweiflügler
+239	d2e1231772Meyers-1905	Gallwespen	Hautflügler
+240	d2e1234207Meyers-1905	Gamasĭdae	Milben
+241	d2e1237086Meyers-1905	Gänse	Schwimmvögel
+242	d2e1241776Meyers-1905	Garnēlen	Zehnfüßer
+243	d2e1249927Meyers-1905	Gastromyzēten	Pilze
+244	d2e1253422Meyers-1905	Gavĭale	Krokodile
+245	d2e1254460Meyers-1905	Geaster	Gastromyzeten
+246	d2e1260112Meyers-1905	Gefängniswesen	Gefangenen
+247	d2e1285142Meyers-1905	Genossenschaften	Finanzen
+248	d2e1286542Meyers-1905	Gentianazeen	Contortae
+249	d2e1289443Meyers-1905	Geometridae	Schmetterlinge
+250	d2e1290204Meyers-1905	Georg [2]	kretischen Verhältnisse
+251	d2e1290204Meyers-1905	Georg [2]	Dinge
+252	d2e1292870Meyers-1905	Geradflügler	Insekten
+253	d2e1293218Meyers-1905	Geranĭazeen	Gruinales
+254	d2e1308101Meyers-1905	Gesellschaft [1]	Niedern
+255	d2e1311491Meyers-1905	Gesnerĭazeen	Personatae
+256	d2e1311712Meyers-1905	Gespenstheuschrecken	Geradflügler
+257	d2e1333355Meyers-1905	Giolitti	Finanzen
+258	d2e1334575Meyers-1905	Giraffe [2]	Huftiere
+259	d2e1339581Meyers-1905	Glanzstar	Sperlingsvögel
+260	d2e1348748Meyers-1905	Gliederspinnen	Spinnentiere
+261	d2e1349778Meyers-1905	Glires	Säugetiere
+262	d2e1350188Meyers-1905	Globularĭazeen	Personatae
+263	d2e1351198Meyers-1905	Glockenvogel	Sperlingsvögel
+264	d2e1361695Meyers-1905	Goldbrasse	Stachelflosser
+265	d2e1363284Meyers-1905	Goldhähnchen [2]	Sperlingsvögel
+266	d2e1364165Meyers-1905	Goldmakrele	Stachelflosser
+267	d2e1365306Meyers-1905	Goldschmidt	Weltalls
+268	d2e1366421Meyers-1905	Goldwespen	Hautflügler
+269	d2e1370491Meyers-1905	Goodenĭazeen	Kampanulinen
+270	d2e1382064Meyers-1905	Grabheuschrecken	Grabflügler
+271	d2e1382525Meyers-1905	Grabwespen	Hautflügler
+272	d2e1386871Meyers-1905	Granāt [1]	Silikate
+273	d2e1389379Meyers-1905	Grant	innern Verhältnisse
+274	d2e1391381Meyers-1905	Gräser	Glumifloren
+275	d2e1392296Meyers-1905	Grasmücke	Sperlingsvögel
+276	d2e1398233Meyers-1905	Gregor	Kunstsammlungen
+277	d2e1403228Meyers-1905	Griechenland [1]	Individuums
+278	d2e1412622Meyers-1905	Großbritannien	Universitäten
+279	d2e1418061Meyers-1905	Großflosser	Stachelflosser
+280	d2e1418138Meyers-1905	Großflügler	Netzflügler
+281	d2e1419116Meyers-1905	Großmächte	politischen Verhältnisse
+282	d2e1422622Meyers-1905	Grünauge	Zweiflügler
+283	d2e1423995Meyers-1905	Grundel	Stachelflosser
+284	d2e1428774Meyers-1905	Gryllĭdae	Geradflügler
+285	d2e1429161Meyers-1905	Guacharo	Segler
+286	d2e1433840Meyers-1905	Guerrázzi	Dinge
+287	d2e1447294Meyers-1905	Guttifēren	Cistifloren
+288	d2e1448814Meyers-1905	Gymnasium	Reifeprüfung
+289	d2e1448814Meyers-1905	Gymnasium	praktischen Ausbildung
+290	d2e1449470Meyers-1905	Gymnŏascus	Askomyzeten
+291	d2e1449516Meyers-1905	Gymnodóntes	Haftkiefer
+292	d2e1449628Meyers-1905	Gymnophiōna	Amphibien
+293	d2e1449890Meyers-1905	Gynandrae	Monokotyledonen
+294	d2e1450559Meyers-1905	Gyrinidae	Käfer
+295	d2e1459213Meyers-1905	Haftkiefer	Knochenfische
+296	d2e1462430Meyers-1905	Haifische	Knorpelfische
+297	d2e1464999Meyers-1905	Halbaffen	Säugetiere
+298	d2e1465867Meyers-1905	Halbflügler	Insekten
+299	d2e1465867Meyers-1905	Halbflügler	Corrodentia
+300	d2e1471692Meyers-1905	Halorrhagidazeen	Myrtifloren
+301	d2e1473567Meyers-1905	Hamamelidazeen	Saxifraginen
+302	d2e1485271Meyers-1905	Handflügler	Säugetiere
+303	d2e1512241Meyers-1905	Hausschwamm	Hymenomyzeten
+304	d2e1513337Meyers-1905	Hauswirtschaft	Haushalts
+305	d2e1514538Meyers-1905	Hautflügler	Insekten
+306	d2e1523996Meyers-1905	Hefe	Hemiasci
+307	d2e1541322Meyers-1905	Helobĭae	Monokotylen
+308	d2e1554090Meyers-1905	Hermes Trismegistos	Welt
+309	d2e1558035Meyers-1905	Hertzberg	Geheimen
+310	d2e1561283Meyers-1905	Hesperīden [1]	Terebinthinen
+311	d2e1561490Meyers-1905	Hesperŏrnis	Ratitae
+312	d2e1566308Meyers-1905	Heuschrecken	Geradflügler
+313	d2e1567432Meyers-1905	Hexagynus	Linnéschen
+314	d2e1580334Meyers-1905	Hippobosca	Zweiflügler
+315	d2e1580597Meyers-1905	Hippokrateazeen	Frangulinen
+316	d2e1593088Meyers-1905	Höferecht	Erbrechts
+317	d2e1593088Meyers-1905	Höferecht	gesetzlichen Erbfolge
+318	d2e1594415Meyers-1905	Hofmann	ganzen Staatsschuldenwesens
+319	d2e1604442Meyers-1905	Holocephăli	Knorpelsische
+320	d2e1607062Meyers-1905	Holzbohrer [2]	Schmetterlinge
+321	d2e1609962Meyers-1905	Holzwespen	Hautflügler
+322	d2e1615054Meyers-1905	Hontheim	Papstes
+323	d2e1617412Meyers-1905	Horātius [1]	innern Angelegenheiten
+324	d2e1620305Meyers-1905	Hornfische	Haftkiefer
+325	d2e1631245Meyers-1905	Huftiere	Säugetiere
+326	d2e1634412Meyers-1905	Hühnervögel	Vögel
+327	d2e1637576Meyers-1905	Humŏr	Welt
+328	d2e1648028Meyers-1905	Hydnorazeen	Monochlamyden
+329	d2e1648048Meyers-1905	Hydnum	Hymenomyzeten
+330	d2e1648208Meyers-1905	Hydrachnidae	Milben
+331	d2e1649560Meyers-1905	Hydrocharitazeen	Helobiae
+332	d2e1650962Meyers-1905	Hydrophyllazeen	Nukuliferen
+333	d2e1652163Meyers-1905	Hygrophŏrus	Hymenomyceten
+334	d2e1652294Meyers-1905	Hyla	Frösche
+335	d2e1652829Meyers-1905	Hymenomyzēten	Pilze
+336	d2e1657878Meyers-1905	Hýstĕron prótĕron	Rede
+337	d2e1660809Meyers-1905	Ichaeumonĭdae	Hautflügler
+338	d2e1664029Meyers-1905	Igel [1]	Insektenfresser
+339	d2e1664125Meyers-1905	Igelfisch	Haftkiefer
+340	d2e1694222Meyers-1905	Insectivŏra	Säugetiere
+341	d2e1694242Meyers-1905	Insekten	Fächerflügler
+342	d2e1695103Meyers-1905	Insektenfresser	Säugetiere
+343	d2e1714843Meyers-1905	Islâm	Gesellschaft
+344	d2e1727943Meyers-1905	Ixōdes	Milben
+345	d2e1752740Meyers-1905	Jochalgen	Algen
+346	d2e1754993Meyers-1905	Johann [2]	Münzwesens
+347	d2e1754993Meyers-1905	Johann [2]	kirchlichen Dinge
+348	d2e1769093Meyers-1905	Juglandalen	Amentazeen
+349	d2e1769107Meyers-1905	Juglandazeen	Amentazeen
+350	d2e1771484Meyers-1905	Jungermannĭa	akrogynen Jungermanniinen
+351	d2e1773462Meyers-1905	Junkaginazeen	Helobien
+352	d2e1773485Meyers-1905	Junkazeen	Glumifloren
+353	d2e1774831Meyers-1905	Juraformation	Kephalopoden
+354	d2e1778739Meyers-1905	Justizstatistik	Rechtspflege
+355	d2e1783372Meyers-1905	Käfer	Insekten
+356	d2e1785473Meyers-1905	Kagu	Watvögel
+357	d2e1785654Meyers-1905	Kahlbäuche	Knochenfische
+358	d2e1787628Meyers-1905	Kaiserfisch	Stachelflosser
+359	d2e1790118Meyers-1905	Kakteen	Opuntinen
+360	d2e1802203Meyers-1905	Kalykanthazeen	Polycarpicae
+361	d2e1803542Meyers-1905	Kamēl [1]	Huftiere
+362	d2e1803788Meyers-1905	Kamelhalsfliege	Netzflügler
+363	d2e1807450Meyers-1905	Kampanulazeen	Kampanulinen
+364	d2e1808322Meyers-1905	Kampfläufer	Watvögel
+365	d2e1812876Meyers-1905	Kanellazeen	Cistifloren
+366	d2e1814011Meyers-1905	Kanker	Gliederspinnen
+367	d2e1814200Meyers-1905	Kannazeen	Scitamineen
+368	d2e1821844Meyers-1905	Kapparidazeen	Rhöadinen
+369	d2e1822538Meyers-1905	Kaprifolĭazeen	Rubiinen
+370	d2e1826012Meyers-1905	Karausche	Edelfische
+371	d2e1829356Meyers-1905	Karikazeen	Passiflorinen
+372	d2e1840981Meyers-1905	Karyokarazeen	Cistifloren
+373	d2e1841022Meyers-1905	Karyophyllazeen	Karyophyllinen
+374	d2e1841084Meyers-1905	Karyophyllīnen	natürlichen Pflanzensystems
+375	d2e1847397Meyers-1905	Kasuarinazeen	Amentazeen
+376	d2e1852719Meyers-1905	Katze [1]	Raubtiere
+377	d2e1855886Meyers-1905	Kaulbarsch	Stachelflosser
+378	d2e1856012Meyers-1905	Kaulkopf	Stachelflosser
+379	d2e1860213Meyers-1905	Kegelschnäbler	Sperlingsvögel
+380	d2e1877781Meyers-1905	Khevenhüller	kaiserlichen Infanterie
+381	d2e1881236Meyers-1905	Kiemenfuß	Blattfüßer
+382	d2e1884398Meyers-1905	Killifisch	Bauchflosser
+383	d2e1892877Meyers-1905	Kirchenpolitik	weltlichen Regiments
+384	d2e1908699Meyers-1905	Kleinzirpen	Halbflügler
+385	d2e1910053Meyers-1905	Klethrazeen	Ericinen
+386	d2e1910196Meyers-1905	Kletterfisch	Stachelflosser
+387	d2e1910286Meyers-1905	Klettervögel	Vögel
+388	d2e1912735Meyers-1905	Klippschliefer	Säugetiere
+389	d2e1913328Meyers-1905	Kloakentiere	Säugetiere
+390	d2e1918239Meyers-1905	Kneorazeen	Terebinthinen
+391	d2e1921087Meyers-1905	Knochenhechte	Schmelzfische
+392	d2e1924352Meyers-1905	Knurrhahn	Stachelflosser
+393	d2e1928271Meyers-1905	Köcherjungfern	Netzflügler
+394	d2e1929999Meyers-1905	Kofferfisch	Haftkiefer
+395	d2e1935630Meyers-1905	Kokila	Klettervögel
+396	d2e1938094Meyers-1905	Kolĭbris	Segler
+397	d2e1942347Meyers-1905	Kolokotrōnis	Dinge
+398	d2e1942403Meyers-1905	Koloman [2]	Thronfolge
+399	d2e1943093Meyers-1905	Kolonialrecht	Amts
+400	d2e1946866Meyers-1905	Kombretazeen	Myrtifloren
+401	d2e1948429Meyers-1905	Kommelinazeen	Farinosen
+402	d2e1949162Meyers-1905	Kommission	Schiffahrtsverhältnisse
+403	d2e1953067Meyers-1905	Kompositen	Aggregaten
+404	d2e1956295Meyers-1905	Konfervazeen	Grünalgen
+405	d2e1962064Meyers-1905	Konjugāten	Algen
+406	d2e1962647Meyers-1905	Konkordāt	gesamten Verhältnisses
+407	d2e1963750Meyers-1905	Konnarazeen	Terebinthinen
+408	d2e1967744Meyers-1905	Konstitution [1]	Staatshaushalts
+409	d2e1969122Meyers-1905	Kontakt	Berührung
+410	d2e1969122Meyers-1905	Kontakt	Berührung
+411	d2e1973843Meyers-1905	Konvolvulazeen	Tubifloren
+412	d2e1980073Meyers-1905	Korallineen	Florideen
+413	d2e1981012Meyers-1905	Kordaïtazeen	Kordaïtalen
+414	d2e1981648Meyers-1905	Korea	Geldwesens
+415	d2e1983570Meyers-1905	Kornazeen	Umbellifloren
+416	d2e1986791Meyers-1905	Korrektor	Statthalter
+417	d2e1994661Meyers-1905	Krabben [1]	Schildkrebse
+418	d2e1994890Meyers-1905	Krabbentaucher	Schwimmvögel
+419	d2e1998991Meyers-1905	Kranich [2]	Watvögel
+420	d2e2002814Meyers-1905	Krassulazeen	Saxifraginen
+421	d2e2005569Meyers-1905	Krebse	Schildkrebse
+422	d2e2006295Meyers-1905	Kredīt	Kreditrechts
+423	d2e2007670Meyers-1905	Kreideformation	Dinosaurier
+424	d2e2009171Meyers-1905	Kreiskiemer	Vorderkiemer
+425	d2e2010779Meyers-1905	Kreodonten	Säugetiere
+426	d2e2015083Meyers-1905	Kreuzspinne	Webespinnen
+427	d2e2025895Meyers-1905	Krokodile [1]	Reptilien
+428	d2e2029391Meyers-1905	Kröten	Frösche
+429	d2e2032192Meyers-1905	Kruzifēren	Rhöadinen
+430	d2e2033044Meyers-1905	Kryptopentameren	Käfer
+431	d2e2033155Meyers-1905	Kryptotetrameren	Käfer
+432	d2e2039445Meyers-1905	Kukurbitazeen	Kampanulinen
+433	d2e2052135Meyers-1905	Kupulifēren	Amentazeen
+434	d2e2064927Meyers-1905	Labĭaten	Nuculiferen
+435	d2e2069377Meyers-1905	Lactarĭus	Hymenomyzeten
+436	d2e2078546Meyers-1905	Lamantin	Wale
+437	d2e2078546Meyers-1905	Lamantin	Sirenen
+438	d2e2080861Meyers-1905	Laminarĭa	Braunalgen
+439	d2e2081527Meyers-1905	Lamnungĭa	Säugetiere
+440	d2e2086098Meyers-1905	Landgemeindeordnung	Ortspolizei
+441	d2e2096165Meyers-1905	Langhänder	Vögel
+442	d2e2109565Meyers-1905	Laubheuschrecken	Geradflügler
+443	d2e2111972Meyers-1905	Laufvögel	Vögel
+444	d2e2112659Meyers-1905	Laurazeen	Polycarpicae
+445	d2e2114084Meyers-1905	Läuse	Halbflügler
+446	d2e2122548Meyers-1905	Leberegel	Saugwürmer
+447	d2e2125221Meyers-1905	Lecythidazeen	Myrtifloren
+448	d2e2126691Meyers-1905	Ledertange	Braunalgen
+449	d2e2132492Meyers-1905	Lehramtsprüfungen	Prüfungen
+450	d2e2133196Meyers-1905	Lehrfreiheit	Staates
+451	d2e2136936Meyers-1905	Leierschwanz	Sperlingsvögel
+452	d2e2142899Meyers-1905	Lemnazeen	Spathifloren
+453	d2e2145131Meyers-1905	Lentibularĭazeen	Personaten
+454	d2e2152532Meyers-1905	Lessing [1]	Rüdigerschen
+455	d2e2156663Meyers-1905	Leuchtzirpen	Halbflügler
+456	d2e2161641Meyers-1905	Lezay-Marnésia	Dinge
+457	d2e2163059Meyers-1905	Libellŭla	Geradflügler
+458	d2e2163445Meyers-1905	Liber diurnus Romanōrum pontifĭcum	Beziehungen
+459	d2e2175548Meyers-1905	Linazeen	Grunialen
+460	d2e2177875Meyers-1905	Linguatulidae	Spinnentiere
+461	d2e2181965Meyers-1905	Lippfische	Schlundkiefer
+462	d2e2187719Meyers-1905	Liturgīe	Gottesdienstes
+463	d2e2191170Meyers-1905	Loasazeen	Cistifloren
+464	d2e2195158Meyers-1905	Loganĭazeen	Kontorten
+465	d2e2195890Meyers-1905	Lōgik	Begriffe
+466	d2e2205380Meyers-1905	Loranthazeen	Monochlamyden
+467	d2e2232851Meyers-1905	Luther [1]	Gottesdienstes
+468	d2e2232851Meyers-1905	Luther [1]	Gottesdienstes
+469	d2e2236349Meyers-1905	Lycopérdon	Gastromyzeten
+470	d2e2237389Meyers-1905	Lykŏphron	Bibliothek
+471	d2e2237409Meyers-1905	Lykopodĭazeen	isosporen Lykopodinen
+472	d2e2239281Meyers-1905	Lyra [3]	Gottesdienstes
+473	d2e2240041Meyers-1905	Lythrazeen	Myrtifloren
+474	d2e2246045Meyers-1905	Macrochīres	Vögel
+475	d2e2247261Meyers-1905	Mädchenschulen	wissenschaftlichen Prüfung
+476	d2e2258715Meyers-1905	Magnolĭazeen	Polycarpicae
+477	d2e2269986Meyers-1905	Malacodermăta	Käfer
+478	d2e2270018Meyers-1905	Malacopterygĭi	Knochenfische
+479	d2e2274901Meyers-1905	Malesherbĭazeen	Cistifloren
+480	d2e2276529Meyers-1905	Mallophăga	Halbflügler
+481	d2e2276829Meyers-1905	Malmignatte	Ungleichweber
+482	d2e2277566Meyers-1905	Malpighĭazeen	Gruinalen
+483	d2e2279023Meyers-1905	Malvazeen	Kolumniferen
+484	d2e2294919Meyers-1905	Marantazeen	Scitamineen
+485	d2e2296194Meyers-1905	Marcgravĭazeen	Cistifloren
+486	d2e2314120Meyers-1905	Marschdisziplin	Truppe
+487	d2e2315319Meyers-1905	Marsilĭa	Wasserfarne
+488	d2e2315376Meyers-1905	Marsilĭazeen	Hydropteriden
+489	d2e2334910Meyers-1905	Maulwurfsgrille	Geradflügler
+490	d2e2335455Meyers-1905	Maurer [3]	Bezirksverfassung
+491	d2e2337765Meyers-1905	Maximilĭan	Finanzen
+492	d2e2338880Meyers-1905	Mayakazeen	Farinosen
+493	d2e2344097Meyers-1905	Medici [1]	Steuerkatasters
+494	d2e2348121Meyers-1905	Meereichel	Rankenfüßer
+495	d2e2350919Meyers-1905	Megaloptĕra	Netzflügler
+496	d2e2357085Meyers-1905	Melastomazeen	Myrtifloren
+497	d2e2358322Meyers-1905	Melĭazeen	Terebinthinen
+498	d2e2364182Meyers-1905	Menispermazeen	Polykarpier
+499	d2e2365017Meyers-1905	Mensch	Primaten
+500	d2e2372454Meyers-1905	Merulĭus	Hymenomyzeten
+501	d2e2398709Meyers-1905	Milben	Spinnentiere
+502	d2e2404788Meyers-1905	Militärstrafgerichtsbarkeit	Ortes
+503	d2e2427131Meyers-1905	Moa	Kurzflügler
+504	d2e2433452Meyers-1905	Molche	Schwanzlurche
+505	d2e2433636Meyers-1905	Molchfisch	Lungenfische
+506	d2e2440120Meyers-1905	Mond	Zeichen
+507	d2e2442767Meyers-1905	Monimĭazeen	Polycarpicae
+508	d2e2443763Meyers-1905	Monochlamydeen	Blütenpflanzen
+509	d2e2449645Meyers-1905	Montenegro	Landes
+510	d2e2457880Meyers-1905	Morazeen	Urticinen
+511	d2e2461102Meyers-1905	Moringa	Rhöadalen
+512	d2e2465940Meyers-1905	Moschusochs	paarzehigen Huftiere
+513	d2e2466055Meyers-1905	Moschustier	paarzehigen Huftiere
+514	d2e2473054Meyers-1905	Mücken	Zweiflügler
+515	d2e2473327Meyers-1905	Mūcor	Zygomyzeten
+516	d2e2488807Meyers-1905	Musazeen	Scitamineen
+517	d2e2488879Meyers-1905	Musca	Zweiflügler
+518	d2e2489354Meyers-1905	Muschelkrebse	niedern Krebstiere
+519	d2e2499624Meyers-1905	Myoporazeen	Tubifloren
+520	d2e2500021Meyers-1905	Myrikazeen	Amentazeen
+521	d2e2500303Meyers-1905	Myristikazeen	Polycarpicae
+522	d2e2500831Meyers-1905	Myrsinazeen	Primulinen
+523	d2e2500852Meyers-1905	Myrtazeen	Myrtifloren
+524	d2e2510067Meyers-1905	Nagetiere	Säugetiere
+525	d2e2513823Meyers-1905	Najadazeen	Helobien
+526	d2e2515545Meyers-1905	Nandu	Kurzflügler
+527	d2e2520892Meyers-1905	Narwal	Wale
+528	d2e2521852Meyers-1905	Nashorn	unpaarzehigen Huftiere
+529	d2e2521987Meyers-1905	Nashornvogel	Klettervögel
+530	d2e2541088Meyers-1905	Nepenthazeen	Cistifloren
+531	d2e2542374Meyers-1905	Nerĕocystis	Brauntange
+532	d2e2546752Meyers-1905	Netzflügler	Insekten
+533	d2e2552747Meyers-1905	Neunauge	Rundmäuler
+534	d2e2583217Meyers-1905	Noctuīdae	Schmetterlinge
+535	d2e2584151Meyers-1905	Nolanazeen	Personaten
+536	d2e2598973Meyers-1905	Nostokazeen	Cyanophyzeen
+537	d2e2609725Meyers-1905	Nyktaginazeen	Zentrospermen
+538	d2e2609968Meyers-1905	Nymphäazeen	Polycarpicae
+539	d2e2621328Meyers-1905	Ochnazeen	Cistifloren
+540	d2e2627016Meyers-1905	Öffentlicher Friede	Gesellschaft
+541	d2e2630591Meyers-1905	Ohrenmaki	Halbaffen
+542	d2e2634580Meyers-1905	Olakazeen	Monochlamyden
+543	d2e2636685Meyers-1905	Olĕazeen	Kontorten
+544	d2e2639859Meyers-1905	Olm	Schwanzlurche
+545	d2e2645154Meyers-1905	Önotherazeen	Myrtifloren
+546	d2e2653805Meyers-1905	Orchideen	Gynandrae
+547	d2e2662301Meyers-1905	Orobanchazeen	Personaten
+548	d2e2668106Meyers-1905	Oscillarĭa	Blaualgen
+549	d2e2672525Meyers-1905	Österreich [2]	nationalen Verhältnisse
+550	d2e2679874Meyers-1905	Oszillarĭazeen	blaugrünen Algen
+551	d2e2681802Meyers-1905	Ottern	Schlangen
+552	d2e2684367Meyers-1905	Ouvertüre	Themen
+553	d2e2687864Meyers-1905	Oxydactylĭa	Frösche
+554	d2e2702775Meyers-1905	Palmelleen	Grünalgen
+555	d2e2702792Meyers-1905	Palmen [1]	Principes
+556	d2e2705018Meyers-1905	Palpicornĭdae	Käfer
+557	d2e2707289Meyers-1905	Pandanazeen	Pandanalen
+558	d2e2707608Meyers-1905	Pandorina	Grünalgen
+559	d2e2712699Meyers-1905	Panzerwangen	Stachelflosser
+560	d2e2713148Meyers-1905	Papageien	Vögel
+561	d2e2714238Meyers-1905	Papavěrazeen	Rhöadinen
+562	d2e2715865Meyers-1905	Papiernautilus	Achtarmer
+563	d2e2719646Meyers-1905	Paradisea	Sperlingsvögel
+564	d2e2727942Meyers-1905	Parker [2]	Anglikanischen
+565	d2e2729180Meyers-1905	Parlierer	mittelalterlichen Bauhütten
+566	d2e2736275Meyers-1905	Passer [1]	Vögel
+567	d2e2736637Meyers-1905	Passiflorazeen	Passiflorinen
+568	d2e2749134Meyers-1905	Pedicŭlus	Halbflügler
+569	d2e2755165Meyers-1905	Peltigěra	heteromeren Diskolichenen
+570	d2e2755492Meyers-1905	Pelzflatterer	Insektenfresser
+571	d2e2755541Meyers-1905	Pelzflügler	Netzflügler
+572	d2e2755561Meyers-1905	Pelzfresser	Halbflügler
+573	d2e2760319Meyers-1905	Pentastomiden	Spinnentiere
+574	d2e2765701Meyers-1905	Perĭkles	Bundesgenossen
+575	d2e2766971Meyers-1905	Perisporĭazeen	Askomyzeten
+576	d2e2770170Meyers-1905	Peronosporazeen	Oomyzeten
+577	d2e2774251Meyers-1905	Personāten	natürlichen Pflanzensystems
+578	d2e2774362Meyers-1905	Personenstand	Personenstandes
+579	d2e2785400Meyers-1905	Pezīza	Diskomyzeten
+580	d2e2799707Meyers-1905	Pfriemenschnäbler	Sperlingsvögel
+581	d2e2801029Meyers-1905	Phalaenĭdae	Schmetterlinge
+582	d2e2801243Meyers-1905	Phallus	Gastromyzeten
+583	d2e2802017Meyers-1905	Phäophyzeen	Algen
+584	d2e2802956Meyers-1905	Pharyngognathi	Knochenfische
+585	d2e2817796Meyers-1905	Phryganeïdae	Netzflügler
+586	d2e2820931Meyers-1905	Physoclisti	Knochenfische
+587	d2e2821053Meyers-1905	Physostŏmi	Knochenfische
+588	d2e2821370Meyers-1905	Phytolakkazeen	Zentrospermen
+589	d2e2828193Meyers-1905	Pilaster	der Säulen
+590	d2e2829677Meyers-1905	Pilzblumen	Gastromyzeten
+591	d2e2833068Meyers-1905	Pinnipedĭa	Säugetiere
+592	d2e2834515Meyers-1905	Piperazeen	Piperinen
+593	d2e2835852Meyers-1905	Pirolazeen	Ericinen
+594	d2e2838490Meyers-1905	Pithēci	Säugetiere
+595	d2e2839357Meyers-1905	Pittosporazeen	Saxifraginen
+596	d2e2839730Meyers-1905	Pius	zerrütteten Staatswesens
+597	d2e2839730Meyers-1905	Pius	Wissenschaft
+598	d2e2841274Meyers-1905	Plagiostōmen	Knorpelfische
+599	d2e2843135Meyers-1905	Planipennĭa	Netzflügler
+600	d2e2843815Meyers-1905	Plantaginazeen	Personaten
+601	d2e2845120Meyers-1905	Platanazeen	Saxifraginen
+602	d2e2847240Meyers-1905	Plattflügler	Netzflügler
+603	d2e2849343Meyers-1905	Plectognathi	Knochenfische
+604	d2e2853138Meyers-1905	Plumbaginazeen	Primulinen
+605	d2e2856516Meyers-1905	Podargus	Klettervögel
+606	d2e2857224Meyers-1905	Podostemonazeen	Saxifraginen
+607	d2e2857270Meyers-1905	Podŭra	Thysanuren
+608	d2e2861999Meyers-1905	Polemonĭazeen	Tubifloren
+609	d2e2869685Meyers-1905	Polygonazeen	Polygoninen
+610	d2e2872334Meyers-1905	Pombal [2]	Finanzen
+611	d2e2873231Meyers-1905	Pomologie	Obstfrüchte
+612	d2e2876196Meyers-1905	Pontederĭazeen	Farinosen
+613	d2e2880764Meyers-1905	Portalis	kirchlichen Angelegenheiten
+614	d2e2889261Meyers-1905	Post [3]	Postwesens
+615	d2e2892861Meyers-1905	Potamogetonazeen	Helobien
+616	d2e2901245Meyers-1905	Präparánd	Seminars
+617	d2e2903827Meyers-1905	Präzession	Zeichen
+618	d2e2913905Meyers-1905	Primaten	Säugetiere
+619	d2e2915044Meyers-1905	Primulazeen	Primulinen
+620	d2e2919745Meyers-1905	Proboscidea	Säugetiere
+621	d2e2927317Meyers-1905	Prosimĭi	Säugetiere
+622	d2e2928562Meyers-1905	Protealen	Thymetäinen
+623	d2e2928576Meyers-1905	Protĕazeen	Thymeläinen
+624	d2e2936754Meyers-1905	Psilotazeen	isosporen Lykopodinen
+625	d2e2936860Meyers-1905	Psittăcus	Vögel
+626	d2e2938350Meyers-1905	Psylla	Halbflügler
+627	d2e2942435Meyers-1905	Pulex	Zweiflügler
+628	d2e2945500Meyers-1905	Punikazeen	Myrtifloren
+629	d2e2951696Meyers-1905	Pyrălis	Schmetterlinge
+630	d2e2955037Meyers-1905	Pythomorphen	Reptilien
+631	d2e2964372Meyers-1905	Quermäuler	Knorpelfische
+632	d2e2977969Meyers-1905	Rafflesĭazeen	Monochlamyden
+633	d2e2983942Meyers-1905	Rana	Frösche
+634	d2e2985493Meyers-1905	Rankenfüßer	niedern Krebstiere
+635	d2e2986163Meyers-1905	Ranunkūlazeen	Polykarpen
+636	d2e2989809Meyers-1905	Rastatt	deutschen Reichsangelegenheiten
+637	d2e2992911Meyers-1905	Raubtiere	Säugetiere
+638	d2e2993187Meyers-1905	Raubvögel	Vögel
+639	d2e3003002Meyers-1905	Rechtläufig	Zeichen
+640	d2e3007741Meyers-1905	Reduvīni	Halbflügler
+641	d2e3037001Meyers-1905	Reptilĭen	Krokodile
+642	d2e3037001Meyers-1905	Reptilĭen	Echsen
+643	d2e3037001Meyers-1905	Reptilĭen	Rhynchokephalen
+644	d2e3037001Meyers-1905	Reptilĭen	Schlangen
+645	d2e3038285Meyers-1905	Resedazeen	Cistifloren
+646	d2e3040721Meyers-1905	Restĭonazeen	Farinosen
+647	d2e3049021Meyers-1905	Rhamnazeen	Frangulinen
+648	d2e3053951Meyers-1905	Rhizophorazeen	Myrtifloren
+649	d2e3053965Meyers-1905	Rhizopōden	Kammern
+650	d2e3055897Meyers-1905	Rhopalocēra	Schmetterlinge
+651	d2e3061691Meyers-1905	Riedler	Beziehungen
+652	d2e3064367Meyers-1905	Riesensalamander	Schwanzlurche
+653	d2e3068745Meyers-1905	Ringelkrebse	höhern Krebstiere
+654	d2e3069172Meyers-1905	Ringelwühler	Amphibien
+655	d2e3076404Meyers-1905	Robben	Säugetiere
+656	d2e3078827Meyers-1905	Rochen	Quermäuler
+657	d2e3080846Meyers-1905	Rodentĭa	Säugetiere
+658	d2e3098791Meyers-1905	Rosazeen	Rosifloren
+659	d2e3106827Meyers-1905	Rostpilze	Protobasid
+660	d2e3116259Meyers-1905	Royer-Collard	Dinge
+661	d2e3118050Meyers-1905	Rubĭazeen	Rubiinen
+662	d2e3126135Meyers-1905	Rumänĭen	Dinge
+663	d2e3127872Meyers-1905	Rumohr	Kunstgegenstände
+664	d2e3132171Meyers-1905	Rüsseltiere	Säugetiere
+665	d2e3133780Meyers-1905	Russisches Reich	Dinge
+666	d2e3137140Meyers-1905	Russŭla	Gymenomyzeten
+667	d2e3138299Meyers-1905	Rutazeen	Terebinthinen
+668	d2e3167250Meyers-1905	Salikalen	Amentazeen
+669	d2e3167267Meyers-1905	Salikazeen	Amentazeen
+670	d2e3170347Meyers-1905	Salpen	Manteltiere
+671	d2e3190246Meyers-1905	Sankt Gallen [2]	toggenburgischen Verhältnisse
+672	d2e3195514Meyers-1905	Santalalen	Monochlamyden
+673	d2e3195532Meyers-1905	Santalazeen	Monochlamyden
+674	d2e3198942Meyers-1905	Sapotazeen	Diospyrinen
+675	d2e3199476Meyers-1905	Saproleguĭazeen	Oomyzeten
+676	d2e3200684Meyers-1905	Sarcoptes	Milben
+677	d2e3203140Meyers-1905	Sarrazenĭalen	Cistifloren
+678	d2e3203154Meyers-1905	Sarrazenĭazeen	Cistifloren
+679	d2e3207735Meyers-1905	Sauerkleegewächse	Gruinalen
+680	d2e3208370Meyers-1905	Säugetiere	Fledermäuse
+681	d2e3211672Meyers-1905	Saururazeen	Piperinen
+682	d2e3213756Meyers-1905	Saxifragazeen	Saxifraginen
+683	d2e3213880Meyers-1905	Saxifragīnen	Rosalen
+684	d2e3232120Meyers-1905	Scheibenpilze	Pilze
+685	d2e3246750Meyers-1905	Schildkrebse	höhern Krebse
+686	d2e3246985Meyers-1905	Schildkröten	Reptilien
+687	d2e3247254Meyers-1905	Schildläuse	Halbflügler
+688	d2e3255005Meyers-1905	Schlammteufel	Schwanzlurche
+689	d2e3255188Meyers-1905	Schlangen	Reptilien
+690	d2e3264761Meyers-1905	Schlundblasenfische	Knochenfische
+691	d2e3264810Meyers-1905	Schlundkiefer	Knochenfische
+692	d2e3268942Meyers-1905	Schmetterlinge	Insekten
+693	d2e3284067Meyers-1905	Schorf	Diskomyzeten
+694	d2e3304929Meyers-1905	Schwanzlose Lurche	Amphibien
+695	d2e3304950Meyers-1905	Schwanzlurche	Amphibien
+696	d2e3305314Meyers-1905	Schwärmer [1]	Schmetterlinge
+697	d2e3309436Meyers-1905	Schweden	kirchlichen Verhältnisse
+698	d2e3309436Meyers-1905	Schweden	Verteidigungswesens
+699	d2e3323457Meyers-1905	Schwimmvögel	Vögel
+700	d2e3323457Meyers-1905	Schwimmvögel	Seeflieger
+701	d2e3325073Meyers-1905	Schwurgericht	Strafprozeßrechts
+702	d2e3326593Meyers-1905	Scleroderma	Gastromyzeten
+703	d2e3334042Meyers-1905	Seeflieger	Vögel
+704	d2e3334845Meyers-1905	Seeigel	Schildigel
+705	d2e3337853Meyers-1905	Seerecht	Handelsschiffahrt
+706	d2e3338423Meyers-1905	Seescheiden	Manteltiere
+707	d2e3341608Meyers-1905	Segler [2]	Vögel
+708	d2e3360796Meyers-1905	Septorĭa	Pyrenomyzeten
+709	d2e3390155Meyers-1905	Silpha	Käfer
+710	d2e3391319Meyers-1905	Simarubazeen	Terebinthinen
+711	d2e3395389Meyers-1905	Singzirpen	Halbflügler
+712	d2e3397313Meyers-1905	Siphonĭata	Muscheln
+713	d2e3397403Meyers-1905	Siphonostomăta	Ruderfüßer
+714	d2e3406896Meyers-1905	Skrofularĭazeen	Personaten
+715	d2e3417052Meyers-1905	Solanazeen	Personaten
+716	d2e3427430Meyers-1905	Sonneratĭazeen	Myrtifloren
+717	d2e3427496Meyers-1905	Sonnīno, Sidney	italienischen Staatshaushaltes
+718	d2e3434533Meyers-1905	Sozialismus	Lebens
+719	d2e3435793Meyers-1905	Spadizifloren	Spathifloren
+720	d2e3435793Meyers-1905	Spadizifloren	Pandanalen
+721	d2e3436770Meyers-1905	Spaltschnäbler	Sperlingsvögel
+722	d2e3443313Meyers-1905	Sparganĭazeen	Pandanalen
+723	d2e3444734Meyers-1905	Spatangidea	Seeigel
+724	d2e3449983Meyers-1905	Sperlingsvögel	Vögel
+725	d2e3452891Meyers-1905	Sphacelarĭeen	Braunalgen
+726	d2e3453975Meyers-1905	Sphingĭdae	Schmetterlinge
+727	d2e3459504Meyers-1905	Spinner	Schmetterlinge
+728	d2e3473201Meyers-1905	Staat	Regierten
+729	d2e3476993Meyers-1905	Stachelflosser	Knochenfische
+730	d2e3491868Meyers-1905	Steatórnis	Segler
+731	d2e3493787Meyers-1905	Stegokephālen	Amphibien
+732	d2e3498326Meyers-1905	Steinkohlenformation	Seelilien
+733	d2e3506981Meyers-1905	Stereocaulon	heteromeren Diskolichenen
+734	d2e3507680Meyers-1905	Sterěum	Hymenomyzeten
+735	d2e3507810Meyers-1905	Sterkulĭazeen	Kolumniferen
+736	d2e3523763Meyers-1905	Stör [2]	Störe
+737	d2e3532930Meyers-1905	Stratiomys	Zweiflügler
+738	d2e3537374Meyers-1905	Stridulantia	Halbflügler
+739	d2e3537538Meyers-1905	Strigĭdae	Raubvögel
+740	d2e3548220Meyers-1905	Styrakazeen	Diospyrinen
+741	d2e3561645Meyers-1905	Sumpfschnecke	Vorderkiemer
+742	d2e3571991Meyers-1905	Symphonīe	Sätze
+743	d2e3572648Meyers-1905	Synandrae	Kampanulinen
+744	d2e3576034Meyers-1905	Syrphus	Zweiflügler
+745	d2e3576219Meyers-1905	Systēm	Teile
+746	d2e3579761Meyers-1905	Tabănus	Zweiflügler
+747	d2e3583767Meyers-1905	Tagfalter	Schmetterlinge
+748	d2e3585760Meyers-1905	Takkazeen	Carnosen
+749	d2e3589011Meyers-1905	Tamarikazeen	Cistifloren
+750	d2e3590902Meyers-1905	Tang	Braun
+751	d2e3594444Meyers-1905	Taphrīna	Exoasci
+752	d2e3594556Meyers-1905	Tapir	Huftiere
+753	d2e3596054Meyers-1905	Tardigrăda	Spinnentiere
+754	d2e3601639Meyers-1905	Taubenvögel	Vögel
+755	d2e3619890Meyers-1905	Terebinthīnen	Sapindalen
+756	d2e3631851Meyers-1905	Theazeen	Parietalen
+757	d2e3645056Meyers-1905	Thymeläazeen	Thymeläinen
+758	d2e3645979Meyers-1905	Tiberĭus Claudĭus Nero	Verwaltung
+759	d2e3651978Meyers-1905	Tilĭazeen	Kolumniferen
+760	d2e3655321Meyers-1905	Tipŭla	Zweiflügler
+761	d2e3680297Meyers-1905	Tramētes	Hymenomyzeten
+762	d2e3692678Meyers-1905	Trichoptĕra	Netzflügler
+763	d2e3700134Meyers-1905	Triumvirn	Staates
+764	d2e3700544Meyers-1905	Trochīlus	Segler
+765	d2e3702968Meyers-1905	Trommelfisch	Stachelflosser
+766	d2e3703491Meyers-1905	Trompetentierchen	Heterotricha
+767	d2e3703805Meyers-1905	Tropäolazeen	Gruinalen
+768	d2e3705083Meyers-1905	Troppau [2]	neapolitanischen Frage
+769	d2e3708156Meyers-1905	Trypanosōma	Geißeltierchen
+770	d2e3715325Meyers-1905	Tubifloren	Personaten
+771	d2e3715325Meyers-1905	Tubifloren	Plantaginalen
+772	d2e3721922Meyers-1905	Türkisches Reich	Finanzen
+773	d2e3724504Meyers-1905	Turnerazeen	Passiflorinen
+774	d2e3728354Meyers-1905	Typhazeen	Pandanalen
+775	d2e3728590Meyers-1905	Typhus	Lagers
+776	d2e3729279Meyers-1905	Tyroglyphus	Milben
+777	d2e3734335Meyers-1905	Uferfliege	Falschnetzflügler
+778	d2e3734443Meyers-1905	Uferschnepfe	Stelzvögel
+779	d2e3737917Meyers-1905	Ulmazeen	Urtizinen
+780	d2e3739171Meyers-1905	Umbellifēren	Umbellifloren
+781	d2e3743104Meyers-1905	Ungarn	Finanzen
+782	d2e3743104Meyers-1905	Ungarn	Dinge
+783	d2e3744874Meyers-1905	Ungulāta	Säugetiere
+784	d2e3756180Meyers-1905	Urinatōres	Vögel
+785	d2e3757291Meyers-1905	Uroceridae	Hautflügler
+786	d2e3757329Meyers-1905	Urodēla	Amphibien
+787	d2e3758774Meyers-1905	Urtikazeen	Urtizinen
+788	d2e3766558Meyers-1905	Valerĭanazeen	Aggregaten
+789	d2e3782473Meyers-1905	Verbenazeen	Nukuliferen
+790	d2e3793793Meyers-1905	Vernunft	Einzelnen
+791	d2e3793793Meyers-1905	Vernunft	Dinge
+792	d2e3796572Meyers-1905	Versicherung	Privatvermögens
+793	d2e3798830Meyers-1905	Verticillāten	Amentazeen
+794	d2e3801754Meyers-1905	Vesicantia	Käfer
+795	d2e3801941Meyers-1905	Vespa	Hautflügler
+796	d2e3801965Meyers-1905	Vespasiānus	Verwaltung
+797	d2e3815687Meyers-1905	Violazeen	Cistifloren
+798	d2e3820556Meyers-1905	Vitriōle	Sulfate
+799	d2e3822830Meyers-1905	Vögel	Klettervögel
+800	d2e3826222Meyers-1905	Völkerkunde	Primaten
+801	d2e3828399Meyers-1905	Volksschule	ganzen Gebietes
+802	d2e3828399Meyers-1905	Volksschule	Volksschulwesens
+803	d2e3828812Meyers-1905	Volksvertretung	Staatshaushaltes
+804	d2e3839593Meyers-1905	Wabenkröte	Frösche
+805	d2e3844256Meyers-1905	Wagner [2]	Finanzwirtschaft
+806	d2e3847786Meyers-1905	Walachei	Dinge
+807	d2e3852057Meyers-1905	Wale	Säugetiere
+808	d2e3874100Meyers-1905	Watvögel	Vögel
+809	d2e3882090Meyers-1905	Weichflosser	Knochenfische
+810	d2e3896760Meyers-1905	Wendehals	Klettervögel
+811	d2e3897915Meyers-1905	Wenzel [3]	Münzwesens
+812	d2e3913735Meyers-1905	Wiener Kongreß	Verhältnisse
+813	d2e3913735Meyers-1905	Wiener Kongreß	Gebietsverhältnisse
+814	d2e3942475Meyers-1905	Wombat	Wurzelfresser
+815	d2e3947013Meyers-1905	Wunder	natürlichen Geschehens
+816	d2e3956667Meyers-1905	Xylophăga	Käfer
+817	d2e3956830Meyers-1905	Xylotrŏpha	Schmetterlinge
+818	d2e3956850Meyers-1905	Xyridazeen	Farinosen
+819	d2e3964277Meyers-1905	Zahnlücker	Säugetiere
+820	d2e3964950Meyers-1905	Zahnschnäbler [1]	Sperlingsvögel
+821	d2e3966584Meyers-1905	Zanclŏdon	Dinosaurier
+822	d2e3970127Meyers-1905	Zecken	Milben
+823	d2e3981960Meyers-1905	Zeuglŏdon	Wale
+824	d2e3982384Meyers-1905	Zeus [2]	menschlichen Lebens
+825	d2e3983408Meyers-1905	Ziege [2]	Wiederkäuer
+826	d2e3986163Meyers-1905	Zikaden	Halbflügler
+827	d2e3988346Meyers-1905	Zingiberazeen	Scitamineen
+828	d2e3995681Meyers-1905	Zitterwels	Edelfische
+829	d2e4004247Meyers-1905	Zuckergast	Thysanuren
+830	d2e4007870Meyers-1905	Zungenlose	Frösche
+831	d2e4011594Meyers-1905	Zweiflügler	Insekten
+832	d2e4016403Meyers-1905	Zygomyzēten	Phykomyzeten
+833	d2e4016440Meyers-1905	Zygophyllazeen	Terebinthinen
