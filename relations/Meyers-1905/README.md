@@ -63,4 +63,4 @@
 *division/genera/group/order/pronunciation/variety* :heavy_check_mark:
 
 Removed:
-lemma-extension, lemmaaddition, lemmasynonym, synonym_lat, abbreviation, authors, brackets-after-lemma (too short, doubles, or sonderdatei)
+lemma-extension, lemmaaddition, lemmasynonym, synonym_lat, abbreviation, authors, brackets-after-lemma, hyponym_alignment (too short, doubles, or sonderdatei)
