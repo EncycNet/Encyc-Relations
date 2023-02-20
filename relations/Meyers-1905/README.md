@@ -9,13 +9,16 @@
 * manual cleaning (nur semantische Ausdrücke)
 	
 *enumeration of hypernyms*
-* leading/training punctuation
+* leading/trailing punctuation
 * remove tags
 * file name / column name
 
 *subcategories*
 * leading/trailing punctuation
 * leading enumeration
+* manual cleaning (nur semantische Ausdrücke)
+
+*b_synonyms*
 * manual cleaning (nur semantische Ausdrücke)
 
 *examples*
