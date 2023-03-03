@@ -4,19 +4,19 @@
 
 ### General file todos:
 
-*enumeration*
-* leading/trailing punctuation
-* manual cleaning (nur semantische Ausdrücke)
+*enumeration* :heavy_check_mark:
+* leading/trailing punctuation :heavy_check_mark:
+* manual cleaning (nur semantische Ausdrücke) :heavy_check_mark:
 	
-*enumeration of hypernyms*
-* leading/trailing punctuation
-* remove tags
-* file name / column name
+*enumeration of hypernyms* 
+* leading/trailing punctuation 
+* remove tags 
+* file name / column name :
 
-*subcategories*
-* leading/trailing punctuation
-* leading enumeration
-* manual cleaning (nur semantische Ausdrücke)
+*subcategories* :heavy_check_mark:
+* leading/trailing punctuation :heavy_check_mark:
+* leading enumeration :heavy_check_mark:
+* manual cleaning (nur semantische Ausdrücke) :heavy_check_mark:
 
 *b_synonyms*
 * manual cleaning (nur semantische Ausdrücke)
