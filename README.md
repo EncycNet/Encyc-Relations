@@ -20,6 +20,7 @@ Files (especially classification) are generally still subject to optimization.
 | Meyers Großes Konversations-Lexikon                                      | Joseph Meyer                              | 1905-1909 | 20      | Comprehensive general encyclopedia  for the general population.                                                   | 156,264           | 17,437,000       |
 
 ## Future work
+* add descriptions for relation files
 * match the extracted relations to Wikidata relations
 * evaluation through gold data (precision and recall)
 * add reliability scores through evaluation
