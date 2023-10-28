@@ -1,7 +1,7 @@
 ### Explanations of relation files for Brockhaus 1911 (Work in Progress)
 
 
-*Brockhaus-1911_n_differentFrom* - In close proximity of the words buzzwords can be found, such as "Gegensatz". Leading to the conclusion that the results are different from the headword. 
+*Brockhaus-1911_n_differentFrom* - In close proximity of the words buzzwords can be found, such as "Gegensatz". Leading to the conclusion that the results are different from the headword. </br>
 *Brockhaus-1911_n_etymology-origin* - The etymological related term of the headword is given as well as the language of origin. 
 *Brockhaus-1911_n_hypernym_art* - The given term is a hypernym of the headword, which has the relation of being "a type of". 
 *Brockhaus-1911_n_hypernym_class* - The given term is a hypernym of the headword, which has the relation of being "a class of". 
