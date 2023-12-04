@@ -3,13 +3,13 @@
 #### Related
 related-to &rarr; P7084 (related category)  
 tfidf &rarr; P7084  
-topic_keywords &rarr; P7084 
+topic_keywords &rarr; P7084  
 order &rarr; P7084  
 variety &rarr; P7084  
 division &rarr; P7084  
 lonely_i/s &rarr; P7084  
-direct-reference &rarr; P7084
-inidrect-reference &rarr; P7084
+direct-reference &rarr; P7084  
+inidrect-reference &rarr; P7084  
 
 #### Hierarchy
 hyponym &rarr; P6593 (hyperonym)  
@@ -17,7 +17,7 @@ class &rarr; P10019 (term in higher taxon)
 genera &rarr; P427 (taxonomic type)  
 group &rarr; P10019 (term in higher taxon)  
 hypernym &rarr; P279 (subclass of)  
-taxon-hyponym &rarr; P- (lower taxon) / inverse P10019
+taxon-hyponym &rarr; P- (lower taxon) / inverse P10019  
 
 #### Other
 headword &rarr; P2561 (name)  
@@ -40,9 +40,9 @@ word-origin &rarr; P5191 (derived from lexeme)
 context &rarr; P1269 (facet of)  
 related-to-family &rarr; P1038 (relative)  
 entity-person &rarr; P3342 (siginificant person)  
-entity-location &rarr; P7153 (significant place)
-compound &rarr; P5238 (combines lexemes)
-related-to-author &rarr; P50 (author)
-subtopic &rarr; P958 (section, verse, paragraph, or clause)
-subcategory &rarr; P1269 (facet of) 
-entity-organisation &rarr; P1416 (affiliation)
+entity-location &rarr; P7153 (significant place)  
+compound &rarr; P5238 (combines lexemes)  
+related-to-author &rarr; P50 (author)  
+subtopic &rarr; P958 (section, verse, paragraph, or clause)  
+subcategory &rarr; P1269 (facet of)   
+entity-organisation &rarr; P1416 (affiliation)  
