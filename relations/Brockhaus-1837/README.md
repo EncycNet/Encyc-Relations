@@ -17,7 +17,7 @@
 *Brockhaus-1837_n_hypernym_order* -  The terms are "order"-hypernyms of the lemma. </br>
 *Brockhaus-1837_n_definition* - The results have been found, since they follow the pattern <lemma> "ist/sind" <definition> </br>
 *Brockhaus-1837_n_hyponym_hyponym_class* - The terms are "class"-hyponyms of the lemma, as well as hyponyms of the hyponyms. </br>
-*Brockhaus-1837_n_hyponym-hyponym-hyponym_group* - The terms are "group"-hyponyms of the lemma, as well as hyponyms of the hyponyms. 
+*Brockhaus-1837_n_hyponym-hyponym-hyponym_group* - The terms are "group"-hyponyms of the lemma, as well as hyponyms of the hyponyms.  </br>
 *Brockhaus-1937_n_target_direct-reference* - The found terms are direct references that can be connected with aricle-ids. 
 </br>
 
@@ -27,7 +27,7 @@
 *Brockhaus-1837_s_person_significantPerson* - The found terms are people that are related to the headword. </br>
 *Brockhaus-1837_s_related-to_similar-to_similar-to_similar-to* - The found terms have a parallel relation between them, while being related to the headword. </br>
 *Brockhaus-1837_s_related-to-synonym_synonym_synonym* - The found terms have a synonym relation between them, while being related to the headword. </br> 
-*Brockaus-1837_s_hyponym_similar-to_similar-to_similar-to_similar-to.csv* - The found terms have a parallel relation between them, while being a hyponym to the headword. </br>
+*Brockaus-1837_s_hyponym_similar-to_similar-to_similar-to_similar-to* - The found terms have a parallel relation between them, while being a hyponym to the headword. </br>
 *Brockhaus-1837_s_related-to* - Terms are somehow related to the lemma. </br>
 *Brockhaus-1837_s_facet-of* - The found term are a facet of the headword. </br>
 *Brockhaus-1837_s_synonym*- The found terms are synonyms of the headword.</br>
