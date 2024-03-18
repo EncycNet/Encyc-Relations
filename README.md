@@ -8,7 +8,7 @@ Relations:
 + Brockhaus-1809: in progress :arrow_right:
 + Brockhaus-1837: in progress :arrow_right:
 + Brockhaus-1911: in progress :arrow_right:
-+ DamenConvLex-1837: in preparation :clock3:
++ DamenConvLex-1834: in preparation :clock3:
 
 Be aware that all data was extracted automatically and the content within the relation files can be rather fuzzy.
 
