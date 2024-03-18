@@ -1,8 +1,20 @@
 # Relations and classification of entries in EncycNet
 CSV data of the relations (**work in progress**) in the EncycNet knowledge graph. Includes broad and fine-grained Wikidata classification of entries. All files are tab-separated. Classification files are stored as `.p` ([pickle](https://wiki.python.org/moin/UsingPickle)) to keep Wikimedia objects functional.
-Currently focusing on *Meyers-1905* and *Herder-1854* for pushing the relations files, rest to follow.
 
-Files are generally still subject to optimization. Be aware that all data was extracted automatically and the content within the relation files can be rather fuzzy.
+Relations:
+
++ Meyers-1905: completed :white_check_mark:
++ Herder-1854: completed :white_check_mark:
++ Brockhaus-1809: in progress :arrow_right:
++ Brockhaus-1837: in progress :arrow_right:
++ Brockhaus-1911: in progress :arrow_right:
++ DamenConvLex-1837: in preparation :clock3:
+
+Be aware that all data was extracted automatically and the content within the relation files can be rather fuzzy.
+
+You can find the first version of the knowledge graph, which contains Meyers-1905 as of now, on zenodo:
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.10219192.svg)](http://dx.doi.org/10.5281/zenodo.10219192)
 
 ## Directories
 * "Classification" includes one file per encyclopedia, where Wikimedia objects as well as extracted hypernym paths and broad classification (person, location, object, abstract) from those objects are stored. Provides the basis for encyclopedia alignment.
@@ -21,8 +33,8 @@ Files are generally still subject to optimization. Be aware that all data was ex
 
 ## Future work
 * add descriptions for relation files
-* match the extracted relations to Wikidata relations
+* match the extracted relations to Wikidata relations ([preview for Meyers-1905](https://github.com/EncycNet/Encyc-Relations/tree/main/relations/Meyers-1905#readme))
 * evaluation through gold data (precision and recall)
 * add reliability scores through evaluation
-* transform to RDF*
+* transform to RDF* [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.10219192.svg)](http://dx.doi.org/10.5281/zenodo.10219192)
 * include Python toolbox for easy handling of the data
