@@ -37,7 +37,7 @@ encycnet = Namespace('http://encycnet.digital-humanities.de/fullarticle.html?art
 G.bind("wiki", wiki)
 G.bind("encycnet", encycnet)
 ```
-3. Traverse the graph by iterating over triples with or without constraints (e.g. all fictional entities):
+3. Traverse the graph by iterating over triples with or without constraints (e.g. all fictional entities, 'None' may indicate a wildcard for any of S, P, O):
 ```python 
 for s, p, o in G.triples((None, wiki['Property:P31'], Literal('fiktionale Entität'))):
     print(f"{s} ist fiktiv")
@@ -50,9 +50,9 @@ WHERE {
     ?item wiki:Property:P2561 ?name .
     ?item wiki:Property:P279* "Wissenschaft" .
 } 
-LIMIT 20"""
+LIMIT 20 """
 
-result= G.query(q, initNs={'wiki': wiki})
+result = G.query(q, initNs={'wiki': wiki})
 for row in result:
     print(f"{row['item']} {row['name']}")
 ```
