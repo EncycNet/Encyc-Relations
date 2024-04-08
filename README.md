@@ -20,6 +20,43 @@ You can find the first version of the knowledge graph, which contains Meyers-190
 * "Classification" includes one file per encyclopedia, where Wikimedia objects as well as extracted hypernym paths and broad classification (person, location, object, abstract) from those objects are stored. Provides the basis for encyclopedia alignment.
 * "Relations" includes one folder per encyclopedia, where one file corresponds to one relation (e.g. synonym, hypernym, etc.).
 
+## Example query with RDFLib
+[RDFLib](https://rdflib.readthedocs.io/en/stable/) is a Python package for handling RDF graphs. You may work with EncycNet like so:
+1. Download the [latest version of the graph from zenodo](http://dx.doi.org/10.5281/zenodo.10219192) and install RDFLib with
+`$ pip install rdflib`
+2. Import the library and load the graph:
+```python 
+from rdflib import Graph, query
+from rdflib.namespace import Namespace
+
+G = Graph()
+G.parse('EncycNet_Ver01.ttl', format='turtle')
+
+wiki = Namespace('https://www.wikidata.org/wiki/')
+encycnet = Namespace('http://encycnet.digital-humanities.de/fullarticle.html?articleID=')
+G.bind("wiki", wiki)
+G.bind("encycnet", encycnet)
+```
+3. Traverse the graph by iterating over triples with or without constraints (e.g. all fictional entities):
+```python 
+for s, p, o in G.triples((None, wiki['Property:P31'], Literal('fiktionale Entität'))):
+    print(f"{s} ist fiktiv")
+```
+4. Use SPARQL to find entities (e.g. all that are subclass of "science"):
+```python 
+q = """
+SELECT DISTINCT ?item ?name
+WHERE {
+    ?item wiki:Property:P2561 ?name .
+    ?item wiki:Property:P279* "Wissenschaft" .
+} 
+LIMIT 20"""
+
+result= G.query(q, initNs={'wiki': wiki})
+for row in result:
+    print(f"{row['item']} {row['name']}")
+```
+
 ## List of encyclopedias used
 
 | Title                                                                    | Eds.                                      | Year      | Volumes | Description                                                                                                       | Number of entries | Number of tokens |
@@ -32,9 +69,5 @@ You can find the first version of the knowledge graph, which contains Meyers-190
 | Meyers Großes Konversations-Lexikon                                      | Joseph Meyer                              | 1905-1909 | 20      | Comprehensive general encyclopedia  for the general population.                                                   | 156,264           | 17,437,000       |
 
 ## Future work
-* add descriptions for relation files
-* match the extracted relations to Wikidata relations ([preview for Meyers-1905](https://github.com/EncycNet/Encyc-Relations/tree/main/relations/Meyers-1905#readme))
 * evaluation through gold data (precision and recall)
 * add reliability scores through evaluation
-* transform to RDF* [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.10219192.svg)](http://dx.doi.org/10.5281/zenodo.10219192)
-* include Python toolbox for easy handling of the data
