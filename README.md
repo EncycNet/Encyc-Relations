@@ -6,7 +6,7 @@ Relations:
 + Meyers-1905: completed :white_check_mark:
 + Herder-1854: completed :white_check_mark:
 + Brockhaus-1809: in progress :arrow_right:
-+ Brockhaus-1837: in progress :arrow_right:
++ Brockhaus-1837: completed :white_check_mark:
 + Brockhaus-1911: in progress :arrow_right:
 + DamenConvLex-1834: in preparation :clock3:
 
