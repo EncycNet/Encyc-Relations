@@ -1,4 +1,4 @@
-### Wikidata Property Mapping of Meyers Relations
+### Wikidata Property Mapping of Herder Relations
 
 #### Basics
 name &rarr; P2561  
