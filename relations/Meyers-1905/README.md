@@ -1,4 +1,8 @@
-### Preliminary Wikidata Property Mapping of Meyers Relations
+### Wikidata Property Mapping of Meyers Relations
+
+#### Basics
+name &rarr; P2561  
+identifier in encyclopedia / alignment &rarr; P11797 (matched by identifier from)  
 
 #### Related
 related-to &rarr; P7084 (related category)  
@@ -8,8 +12,10 @@ order &rarr; P7084
 variety &rarr; P7084  
 division &rarr; P7084  
 lonely_i/s &rarr; P7084  
-direct-reference &rarr; P7084  
-inidrect-reference &rarr; P7084  
+
+#### References
+direct-reference &rarr; P8371 (references work, tradition or theory)  
+inidrect-reference &rarr; P8371  
 
 #### Hierarchy
 hyponym &rarr; P6593 (hyperonym)  
