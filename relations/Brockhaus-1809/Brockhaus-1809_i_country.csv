@@ -1,3 +1,283 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc2bef1a81a14a7b3276249cac8dd70995c7f731d7ef11c50b7f15c0e8701557
-size 14878
+,EntryID,Headword,Country
+0,d3e598Brockhaus-1809,Die Addresse,England
+1,d3e1585Brockhaus-1809,Alceste,Wieland
+2,d3e2199Brockhaus-1809,Amadis,Wieland
+3,d3e5626Brockhaus-1809,Die Bacchante,Wieland
+4,d3e10297Brockhaus-1809,Britannien,England
+5,d3e15367Brockhaus-1809,Combabus,Wieland
+6,d3e16806Brockhaus-1809,Curland,Curland
+7,d3e16806Brockhaus-1809,Curland,Curland
+8,d3e16806Brockhaus-1809,Curland,Rußland
+9,d3e16840Brockhaus-1809,Curland (Interims-Nachtrag),Curland
+10,d3e17127Brockhaus-1809,Dännemark,Jütland
+11,d3e19340Brockhaus-1809,Dionysius [2],Wieland
+12,d3e19890Brockhaus-1809,Claude Joseph Dorat,Wieland
+13,d3e23117Brockhaus-1809,Die Kaiserin Faustina,Wieland
+14,d3e27035Brockhaus-1809,Die Gartenkunst,England
+15,d3e27505Brockhaus-1809,Die Generalstaaten,Holland
+19,d3e30063Brockhaus-1809,Griechenland,Griechenland
+20,d3e30063Brockhaus-1809,Griechenland,Griechenland
+21,d3e30234Brockhaus-1809,Großbritannien und Irland,England
+22,d3e30234Brockhaus-1809,Großbritannien und Irland,Schottland
+23,d3e30234Brockhaus-1809,Großbritannien und Irland,Schottland
+24,d3e30234Brockhaus-1809,Großbritannien und Irland,Irland
+25,d3e30234Brockhaus-1809,Großbritannien und Irland,England
+26,d3e30234Brockhaus-1809,Großbritannien und Irland,England
+27,d3e30234Brockhaus-1809,Großbritannien und Irland,Schottland
+28,d3e30234Brockhaus-1809,Großbritannien und Irland,Irland
+29,d3e30234Brockhaus-1809,Großbritannien und Irland,England
+30,d3e30234Brockhaus-1809,Großbritannien und Irland,Schottland
+31,d3e30234Brockhaus-1809,Großbritannien und Irland,Hochland
+32,d3e30234Brockhaus-1809,Großbritannien und Irland,Niederland
+33,d3e31713Brockhaus-1809,Das Churfürstenthum Hannover,England
+34,d3e34619Brockhaus-1809,Holland,Nordholland
+35,d3e34619Brockhaus-1809,Holland,Holland
+36,d3e34837Brockhaus-1809,Quintus Horatius Flaccus,Wieland
+37,d3e35216Brockhaus-1809,Die Huronen,Mohakerland
+44,d3e36405Brockhaus-1809,Irland,Irland
+45,d3e36405Brockhaus-1809,Irland,Irland
+46,d3e36405Brockhaus-1809,Irland,Irland
+47,d3e36405Brockhaus-1809,Irland,Irland
+48,d3e36405Brockhaus-1809,Irland,Irland
+49,d3e36405Brockhaus-1809,Irland,Irland
+50,d3e36879Brockhaus-1809,Italien,Welschland
+51,d3e37874Brockhaus-1809,Die Johanniterritter,England
+52,d3e38687Brockhaus-1809,Die Jury,England
+53,d3e38861Brockhaus-1809,Der Kaffee,England
+54,d3e38861Brockhaus-1809,Der Kaffee,Deutschland
+55,d3e39433Brockhaus-1809,Das Kartenspiel,Deutschland
+56,d3e39491Brockhaus-1809,Die Kartoffeln,Deutschland
+57,d3e40697Brockhaus-1809,Die Kosaken,Rußland
+58,d3e40836Brockhaus-1809,Kosciusko,Rußland
+60,d3e41930Brockhaus-1809,Labrador oder Neubritannien,Neufundland
+61,d3e43632Brockhaus-1809,Die Leibeigenschaft,Deutschland
+62,d3e43632Brockhaus-1809,Die Leibeigenschaft,Rußland
+63,d3e43632Brockhaus-1809,Die Leibeigenschaft,Deutschland
+64,d3e44557Brockhaus-1809,Die Letten,Liefland
+65,d3e44557Brockhaus-1809,Die Letten,Ehstland
+66,d3e44779Brockhaus-1809,Das Herzogthum Liefland,Esthland
+67,d3e44779Brockhaus-1809,Das Herzogthum Liefland,Liefland
+68,d3e44779Brockhaus-1809,Das Herzogthum Liefland,Esthland
+69,d3e44779Brockhaus-1809,Das Herzogthum Liefland,Liefland
+70,d3e44779Brockhaus-1809,Das Herzogthum Liefland,Curland
+71,d3e44779Brockhaus-1809,Das Herzogthum Liefland,Esthland
+72,d3e44779Brockhaus-1809,Das Herzogthum Liefland,Esthland
+73,d3e44779Brockhaus-1809,Das Herzogthum Liefland,Liefland
+74,d3e44779Brockhaus-1809,Das Herzogthum Liefland,Liefland
+75,d3e46170Brockhaus-1809,Lucianus,Wieland
+76,d3e46339Brockhaus-1809,Ludwig der vierzehnte,Holland
+78,d3e48517Brockhaus-1809,Magellanienland,Magelhänsland
+85,d3e51890Brockhaus-1809,Maria,England
+86,d3e52772Brockhaus-1809,Das Marschland,Maschland
+87,d3e53069Brockhaus-1809,Das Maschland oder Marschland,Geestland
+88,d3e53847Brockhaus-1809,Mayland,Mailand
+89,d3e54313Brockhaus-1809,Der Meerschaum,Griechenland
+90,d3e55651Brockhaus-1809,Die Methodisten,England
+91,d3e55874Brockhaus-1809,Miltiades,Griechenland
+92,d3e56405Brockhaus-1809,Die Minstrels,England
+93,d3e56405Brockhaus-1809,Die Minstrels,Deutschland
+94,d3e59606Brockhaus-1809,Der Münzfuß,Deutschland
+95,d3e61782Brockhaus-1809,Der Negerhandel,England
+96,d3e62804Brockhaus-1809,Die Niederlande,Deutschland
+97,d3e62804Brockhaus-1809,Die Niederlande,Holland
+98,d3e62804Brockhaus-1809,Die Niederlande,Friesland
+99,d3e62804Brockhaus-1809,Die Niederlande,England
+100,d3e62804Brockhaus-1809,Die Niederlande,England
+101,d3e62804Brockhaus-1809,Die Niederlande,Holland
+102,d3e63820Brockhaus-1809,Die vereinigten Staaten von Nordamerika,Congreßland
+103,d3e63928Brockhaus-1809,Der Nordamerikanische Krieg,England
+104,d3e63928Brockhaus-1809,Der Nordamerikanische Krieg,England
+105,d3e63928Brockhaus-1809,Der Nordamerikanische Krieg,England
+106,d3e63928Brockhaus-1809,Der Nordamerikanische Krieg,Holland
+107,d3e63928Brockhaus-1809,Der Nordamerikanische Krieg,England
+108,d3e63928Brockhaus-1809,Der Nordamerikanische Krieg,Holland
+109,d3e64182Brockhaus-1809,Die Normänner oder Normannen,England
+110,d3e64182Brockhaus-1809,Die Normänner oder Normannen,Friesland
+111,d3e64182Brockhaus-1809,Die Normänner oder Normannen,England
+112,d3e65397Brockhaus-1809,Das Haus Oestreich,Mailand
+113,d3e65397Brockhaus-1809,Das Haus Oestreich,Mailand
+114,d3e65927Brockhaus-1809,Johann von Oldenbarneveld,Holland
+115,d3e66005Brockhaus-1809,Oliva,Liefland
+116,d3e66182Brockhaus-1809,Die Oper,Deutschland
+117,d3e66543Brockhaus-1809,Das Oratorium,England
+118,d3e66543Brockhaus-1809,Das Oratorium,Deutschland
+119,d3e67009Brockhaus-1809,Die Orgel,England
+120,d3e67009Brockhaus-1809,Die Orgel,Deutschland
+121,d3e67636Brockhaus-1809,Ossian,Irland
+122,d3e67928Brockhaus-1809,Ostindien,Holland
+123,d3e69549Brockhaus-1809,Die Pairs,England
+124,d3e69616Brockhaus-1809,Pais de Vaud,Waadtland
+125,d3e70056Brockhaus-1809,Die Pandora oder Pandura,England
+126,d3e70081Brockhaus-1809,Der Panegyricus,England
+127,d3e71789Brockhaus-1809,Die Paste,England
+128,d3e71920Brockhaus-1809,Die Patentwaren,England
+129,d3e72468Brockhaus-1809,Peloponnes,Griechenland
+130,d3e73560Brockhaus-1809,Peter I. Alexiewitsch,Rußland
+131,d3e73560Brockhaus-1809,Peter I. Alexiewitsch,Liefland
+132,d3e74198Brockhaus-1809,Der Petersgroschen oder Peterspfennig,England
+133,d3e74294Brockhaus-1809,Franciscus Petrarcha,Mailand
+134,d3e75338Brockhaus-1809,Philipp II,England
+135,d3e75338Brockhaus-1809,Philipp II,England
+136,d3e77714Brockhaus-1809,Der General Pichegrü,England
+137,d3e77934Brockhaus-1809,Der Pindus,Griechenland
+138,d3e78730Brockhaus-1809,Die Plantageneten,England
+139,d3e78780Brockhaus-1809,Plato,Großgriechenland
+140,d3e78780Brockhaus-1809,Plato,Wieland
+141,d3e79105Brockhaus-1809,Cajus Plinius [2],Wieland
+142,d3e81080Brockhaus-1809,Porto,England
+143,d3e81590Brockhaus-1809,Der Prätendent,Irland
+144,d3e81590Brockhaus-1809,Der Prätendent,England
+145,d3e81590Brockhaus-1809,Der Prätendent,England
+146,d3e81590Brockhaus-1809,Der Prätendent,Schottland
+147,d3e81590Brockhaus-1809,Der Prätendent,England
+148,d3e82378Brockhaus-1809,Das Königreich Preußen,Deutschland
+149,d3e82818Brockhaus-1809,Der Primas,Deutschland
+150,d3e82818Brockhaus-1809,Der Primas,England
+151,d3e83942Brockhaus-1809,Pyrrhus II.,Griechenland
+152,d3e84028Brockhaus-1809,Pythagoras,Griechenland
+153,d3e84274Brockhaus-1809,Die Quäker,England
+154,d3e93386Brockhaus-1809,Die Statthalterschaft Reval,Liefland
+155,d3e93438Brockhaus-1809,Revolution von England,Schottland
+156,d3e93438Brockhaus-1809,Revolution von England,Schottland
+157,d3e93438Brockhaus-1809,Revolution von England,Schottland
+158,d3e94875Brockhaus-1809,Französischer Revolutionskrieg,Rußland
+159,d3e94875Brockhaus-1809,Französischer Revolutionskrieg,Mailand
+160,d3e94875Brockhaus-1809,Französischer Revolutionskrieg,Irland
+161,d3e94875Brockhaus-1809,Französischer Revolutionskrieg,Holland
+162,d3e94875Brockhaus-1809,Französischer Revolutionskrieg,Deutschland
+163,d3e94875Brockhaus-1809,Französischer Revolutionskrieg,Deutschland
+164,d3e94875Brockhaus-1809,Französischer Revolutionskrieg,England
+165,d3e94875Brockhaus-1809,Französischer Revolutionskrieg,Rußland
+166,d3e96433Brockhaus-1809,Revolution von Pohlen,Rußland
+167,d3e96433Brockhaus-1809,Revolution von Pohlen,Rußland
+168,d3e96433Brockhaus-1809,Revolution von Pohlen,Rußland
+169,d3e96634Brockhaus-1809,Die Grafen von Reuß,Vogtland
+170,d3e97150Brockhaus-1809,Rhode-Island,Rhode-Island
+171,d3e99143Brockhaus-1809,Angelique Francoise Roland,Roland
+172,d3e99143Brockhaus-1809,Angelique Francoise Roland,Roland
+173,d3e99177Brockhaus-1809,Jean Baptiste Roland,Roland
+174,d3e99177Brockhaus-1809,Jean Baptiste Roland,Roland
+175,d3e101471Brockhaus-1809,Rußland,Esthland
+176,d3e101471Brockhaus-1809,Rußland,Weisrußland
+177,d3e101471Brockhaus-1809,Rußland,Curland
+178,d3e101471Brockhaus-1809,Rußland,Rußland
+179,d3e102539Brockhaus-1809,Sachsen,England
+180,d3e103748Brockhaus-1809,Der Salmiak,Deutschland
+181,d3e104036Brockhaus-1809,Sameland,Lappland
+182,d3e106277Brockhaus-1809,Die Schauspielkunst,Iffland
+183,d3e106277Brockhaus-1809,Die Schauspielkunst,Iffland
+184,d3e106277Brockhaus-1809,Die Schauspielkunst,Iffland
+185,d3e108062Brockhaus-1809,Schottland,Scotland
+186,d3e108062Brockhaus-1809,Schottland,Schottland
+187,d3e108062Brockhaus-1809,Schottland,Schottland
+188,d3e108062Brockhaus-1809,Schottland,England
+189,d3e108217Brockhaus-1809,Das Königreich Schottland,Südschottland
+190,d3e108217Brockhaus-1809,Das Königreich Schottland,Nordschottland
+191,d3e109123Brockhaus-1809,Schweden,Rußland
+192,d3e109123Brockhaus-1809,Schweden,Rußland
+193,d3e109123Brockhaus-1809,Schweden,Curland
+194,d3e109123Brockhaus-1809,Schweden,Gothland
+195,d3e109123Brockhaus-1809,Schweden,Nordland
+196,d3e109123Brockhaus-1809,Schweden,Finnland
+197,d3e109123Brockhaus-1809,Schweden,Lappland
+198,d3e109123Brockhaus-1809,Schweden,Thalland
+199,d3e109966Brockhaus-1809,Die Schweiz,Waadtland
+200,d3e109966Brockhaus-1809,Die Schweiz,Waadtland
+201,d3e112245Brockhaus-1809,Der Seidenbau,Griechenland
+202,d3e112939Brockhaus-1809,Die September-Tage,Rolland
+203,d3e113162Brockhaus-1809,Sequester,Deutschland
+204,d3e114959Brockhaus-1809,Die Sieben-Inseln-Republik,Rußland
+205,d3e115957Brockhaus-1809,Die Skalden,Island
+206,d3e116112Brockhaus-1809,Skoten,Schottland
+207,d3e116112Brockhaus-1809,Skoten,Schottland
+208,d3e116112Brockhaus-1809,Skoten,Scotland
+209,d3e116112Brockhaus-1809,Skoten,Schottland
+210,d3e118266Brockhaus-1809,Das Sprachrohr,Morland
+211,d3e118315Brockhaus-1809,Stände,England
+212,d3e120788Brockhaus-1809,Stifte,Deutschland
+213,d3e121530Brockhaus-1809,Der Stockfisch,Newfoundland
+214,d3e121853Brockhaus-1809,Strabo,Deutschland
+215,d3e122467Brockhaus-1809,Stuart,Schottland
+216,d3e128517Brockhaus-1809,Terreneuve,Neufoundland
+217,d3e136086Brockhaus-1809,Tyrol,Innland
+218,d3e136086Brockhaus-1809,Tyrol,Etschland
+219,d3e136291Brockhaus-1809,Die Ukraine,Klein-Rußland
+220,d3e137265Brockhaus-1809,Der Utrechter Friede,Neuschottland
+221,d3e137374Brockhaus-1809,Johann Peter Uz,Wieland
+222,d3e137931Brockhaus-1809,Die Vaseu,Groß-Griechenland
+223,d3e139447Brockhaus-1809,Leonardo da Vinci,Mailand
+224,d3e139895Brockhaus-1809,Visconti,Mailand
+225,d3e140137Brockhaus-1809,Die Völkerwanderung,Deutschland
+226,d3e140507Brockhaus-1809,Das Voigtland,Voigtland
+227,d3e140633Brockhaus-1809,Der Voigtländische Kreis,Voigtland
+228,d3e140991Brockhaus-1809,Das Waadt- oder Waat-Land,Waadtland
+229,d3e140991Brockhaus-1809,Das Waadt- oder Waat-Land,Waadtland
+230,d3e141221Brockhaus-1809,Wahlreich,England
+231,d3e141640Brockhaus-1809,Der Wallfisch,Grönland
+232,d3e141712Brockhaus-1809,Das Fürstenthum Wallis oder Wales,England
+233,d3e142005Brockhaus-1809,George Washington,Maryland
+234,d3e142587Brockhaus-1809,Weimar [2],Wieland
+235,d3e143021Brockhaus-1809,Westfriesland,Friesland
+236,d3e143269Brockhaus-1809,White-Boys,Irland
+237,d3e144315Brockhaus-1809,Wrangel,Gothland
+238,d3e145107Brockhaus-1809,Xerxes I,Griechenland
+239,d3e146026Brockhaus-1809,Die Zeitungen,England
+240,d3e147694Brockhaus-1809,Accadie,Neuschottland
+241,d3e148073Brockhaus-1809,Johann Christoph Adelung,Wieland
+242,d3e148453Brockhaus-1809,Aërostat,Deutschland
+243,d3e149043Brockhaus-1809,Albertus-Thaler,Rußland
+244,d3e149099Brockhaus-1809,Albion,England
+245,d3e149099Brockhaus-1809,Albion,Schottland
+246,d3e149099Brockhaus-1809,Albion,Irland
+247,d3e149099Brockhaus-1809,Albion,Schottland
+248,d3e149783Brockhaus-1809,Amiens,England
+249,d3e153666Brockhaus-1809,Der Bayerische Kreis,Deutschland
+250,d3e153948Brockhaus-1809,Der Bergbau,Deutschland
+251,d3e155794Brockhaus-1809,Braunschweig,Holland
+252,d3e158314Brockhaus-1809,Catharina die Zweite,Kurland
+253,d3e159877Brockhaus-1809,Die Cisalpinische Republik,Mailand
+254,d3e160386Brockhaus-1809,Cöln,Deutschland
+255,d3e162692Brockhaus-1809,Die Deutschen Ritter,Deutschland
+256,d3e162715Brockhaus-1809,Deutschland,Ostfriesland
+257,d3e162715Brockhaus-1809,Deutschland,Ostfriesland
+258,d3e162715Brockhaus-1809,Deutschland,Holland
+259,d3e166444Brockhaus-1809,Europa,Island
+260,d3e166444Brockhaus-1809,Europa,Deutschland
+261,d3e167415Brockhaus-1809,Finnland,Finnland
+262,d3e167415Brockhaus-1809,Finnland,Finnland
+263,d3e168090Brockhaus-1809,Der Fränkische Kreis,Deutschland
+264,d3e168609Brockhaus-1809,Friesland,Ostfriesland
+265,d3e169591Brockhaus-1809,Drusus Germanicus,Deutschland
+266,d3e170691Brockhaus-1809,Griechenland,Rußland
+267,d3e171210Brockhaus-1809,Haag,Holland
+268,d3e171725Brockhaus-1809,Hannover,Deutschland
+269,d3e173029Brockhaus-1809,Holland,Ostfriesland
+270,d3e173947Brockhaus-1809,Imperial,Rußland
+271,d3e174634Brockhaus-1809,Italien,Mailand
+272,d3e176030Brockhaus-1809,Kalandsbrüder,Kaland
+273,d3e177689Brockhaus-1809,Die Kuhblattern,Deutschland
+274,d3e178094Brockhaus-1809,Laos,Elephantenland
+275,d3e178274Brockhaus-1809,Lausanne,Waadtland
+276,d3e178504Brockhaus-1809,Die Leibeigenschaft,Ehstland
+277,d3e179022Brockhaus-1809,Liefland,Ehstland
+278,d3e184552Brockhaus-1809,Napoleon,England
+279,d3e184552Brockhaus-1809,Napoleon,Rußland
+280,d3e184552Brockhaus-1809,Napoleon,Friedland
+281,d3e184552Brockhaus-1809,Napoleon,England
+282,d3e186588Brockhaus-1809,Newfoundland,Newfoundland
+283,d3e186639Brockhaus-1809,Neuschottland,Neuschottland
+284,d3e186882Brockhaus-1809,Die vereinigten Niederlande,Holland
+285,d3e186896Brockhaus-1809,Der Niederrheinische Kreis,Deutschland
+286,d3e186910Brockhaus-1809,Der Niedersächsische Kreis,Deutschland
+287,d3e190936Brockhaus-1809,Patagonien,Magellanienland
+288,d3e191018Brockhaus-1809,Johann Reinhold (Reginald) von Patkul,Liefland
+289,d3e192618Brockhaus-1809,William Pitt der jüngere,Irland
+290,d3e192961Brockhaus-1809,Pohlen,Curland
+291,d3e192961Brockhaus-1809,Pohlen,Rußland
+292,d3e192961Brockhaus-1809,Pohlen,Rußland
+293,d3e192961Brockhaus-1809,Pohlen,Rußland
+294,d3e195705Brockhaus-1809,Quedlinburg,Deutschland
+295,d3e197324Brockhaus-1809,Rußland,Rußland
+296,d3e197324Brockhaus-1809,Rußland,Finnland
+297,d3e198313Brockhaus-1809,Schwaben,Deutschland
+298,d3e205199Brockhaus-1809,Zeeland,Seeland
