@@ -8,11 +8,11 @@ Relations:
 + Brockhaus-1809: in progress :arrow_right:
 + Brockhaus-1837: completed :white_check_mark:
 + Brockhaus-1911: in progress :arrow_right:
-+ DamenConvLex-1834: in preparation :clock3:
++ DamenConvLex-1834: in progress :arrow_right:
 
 Be aware that all data was extracted automatically and the content within the relation files can be rather fuzzy.
 
-You can find the first version of the knowledge graph, which contains Meyers-1905 as of now, on zenodo:
+You can find the latest version of the knowledge graph, which contains Meyers-1905, Herder-1854, Brockhaus-1837 as of now, on zenodo:
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.10219192.svg)](http://dx.doi.org/10.5281/zenodo.10219192)
 
@@ -26,20 +26,18 @@ You can find the first version of the knowledge graph, which contains Meyers-190
 `$ pip install rdflib`
 2. Import the library and load the graph:
 ```python 
-from rdflib import Graph, query
+from rdflib import ConjunctiveGraph, query, Literal
 from rdflib.namespace import Namespace
 
-G = Graph()
-G.parse('EncycNet_Ver01.ttl', format='turtle')
+G = ConjunctiveGraph()
+G.parse('EncycNet_Ver0.2.ttl', format='trig')
 
 wiki = Namespace('https://www.wikidata.org/wiki/')
 encycnet = Namespace('http://encycnet.digital-humanities.de/fullarticle.html?articleID=')
-G.bind("wiki", wiki)
-G.bind("encycnet", encycnet)
 ```
-3. Traverse the graph by iterating over triples with or without constraints (e.g. all fictional entities, 'None' may indicate a wildcard for any of S, P, O):
+3. Traverse the graph by iterating over triples with or without constraints (e.g. all fictional entities, 'None' may indicate a wildcard for any of **s**ubject, **p**redicate, **o**bject, sub**g**raph):
 ```python 
-for s, p, o in G.triples((None, wiki['Property:P31'], Literal('fiktionale Entität'))):
+for s, p, o, g in G.quads((None, wiki['Property:P31'], Literal('fiktionale Entität'))):
     print(f"{s} ist fiktiv")
 ```
 4. Use SPARQL to find entities (e.g. all that are subclass of "science"):
