@@ -30,7 +30,7 @@ from rdflib import ConjunctiveGraph, query, Literal
 from rdflib.namespace import Namespace
 
 G = ConjunctiveGraph()
-G.parse('EncycNet_Ver0.2.ttl', format='trig')
+G.parse('EncycNet_Ver02.ttl', format='trig')
 
 wiki = Namespace('https://www.wikidata.org/wiki/')
 encycnet = Namespace('http://encycnet.digital-humanities.de/fullarticle.html?articleID=')
